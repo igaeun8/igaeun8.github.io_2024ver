@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 이가은
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: 이가은
+last_name: 이가은
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 흑백요리사 꿀잼
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 전북대 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
