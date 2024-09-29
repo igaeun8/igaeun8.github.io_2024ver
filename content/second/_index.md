@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-03-25
+date: 2024-09-29
 type: landing
 
 sections:
 
-  - block: features
+- block: features
     content:
       title: <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
       text: <br><span style="font-size:125%">전북대학교 의료 AI 및 계산 과학 연구실 홈페이지에 오신 것을 환영합니다.</span> <br><br>
@@ -17,8 +17,8 @@ sections:
     content:
       slides:
 
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:70%">이가은</span>
+        content: <span style="font-size:70%">이가은에 대해 더 알아보기</span>
         align: center
         background:
           image:
