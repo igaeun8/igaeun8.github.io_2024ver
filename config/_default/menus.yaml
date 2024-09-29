@@ -4,21 +4,59 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
-    weight: 10
-  - name: News
-    url: post
-    weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
+  # - name: Home
+  #   url: /
+  #   weight: 1
+  - name: About
+    url: about
+    weight: 100
+  - parent: About
+    name: About Me
+    url: about
+    weight: 200
+  - parent: About
+    name: Way to come
+    url: contact
+    weight: 200
+
+  - name: Travel
+    url: travel_jejudo
+    weight: 300
+  - parent: Travel
+    name: Jejudo
+    url: travel_jejudo
+    weight: 310
+  - parent: Travel
+    name: Hukuoka
+    url: travel_hukuoka
+    weight: 320
+  - parent: Travel
+    name: Danang
+    url: travel_danang
+    weight: 320
+
+  # - name: Projects
+  #   url: project
+  #   weight: 400
+
+
+  # - name: Coursework
+  #   url: publication
+  #   weight: 500
+
+  - name: Interests
+    url: post #이가은 입학 어디다가 넣지...;;
+    weight: 600
+  - parent: Interests
+    name: Interest Fields
+    url: field
+    weight: 610
+  - parent: Interests
+    name: Publications
     url: publication
-    weight: 50
+    weight: 610
+
+
   - name: Contact
     url: contact
-    weight: 60
+    weight: 700

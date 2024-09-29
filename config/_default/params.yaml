@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
   font_size: L
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Leegaeun'
+    description: '안녕하세요 이가은 입니다.'
+    #twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -54,7 +54,7 @@ footer:
 
 # Localization
 
-locale:
+locale: #고쳐야하나?
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
   address_format: en-us
@@ -71,7 +71,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository:
+  repository: #고쳐야하나?
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
@@ -90,7 +90,7 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
+  search: #고쳐야하나?
     provider: wowchemy
     algolia:
       app_id: ''
@@ -114,5 +114,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format: January 2006
+  date_format: January 2006 #고쳐야하나?
   citation_style: apa
