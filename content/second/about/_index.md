@@ -21,7 +21,7 @@ sections:
         align: center
         background:
           image:
-            filename: ai.jpg
+            filename: aerospace.jpg
             filters:
               brightness: 0.4
           position: center
