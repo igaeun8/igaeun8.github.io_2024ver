@@ -10,10 +10,12 @@ main:
   - name: About
     url: about
     weight: 100
+    
   - parent: About
     name: About Me
     url: about
     weight: 200
+
   - parent: About
     name: Way to come
     url: contact
@@ -22,14 +24,17 @@ main:
   - name: Travel
     url: travel_jejudo
     weight: 300
+
   - parent: Travel
     name: Jejudo
     url: travel_jejudo
     weight: 310
+
   - parent: Travel
     name: Hukuoka
     url: travel_hukuoka
     weight: 320
+    
   - parent: Travel
     name: Danang
     url: travel_danang
