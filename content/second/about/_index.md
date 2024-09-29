@@ -21,7 +21,7 @@ sections:
         align: center
         background:
           image:
-            filename: Ai.jpg
+            filename: ai.jpg
             filters:
               brightness: 0.4
           position: center
@@ -32,7 +32,7 @@ sections:
         align: center
         background:
           image:
-            filename: medical.jpg
+            filename: data_science.jpg
             filters:
               brightness: 0.4
           position: center
@@ -43,7 +43,7 @@ sections:
         align: center
         background:
           image:
-            filename: healthcare.jpg
+            filename: iot.jpg
             filters:
               brightness: 0.4
           position: center
@@ -54,7 +54,7 @@ sections:
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: cloud_computing.jpg
             filters:
               brightness: 0.4
           position: center
