@@ -9,13 +9,16 @@ main:
   #   weight: 1
   - name: About
     url: about
-    weight: 100
-    
-  - parent: About
-    name: About Me
-    url: about
-    weight: 200
+    weight: 100 
 
+  - parent: About
+    name: Intro
+    url: /author/이가은/
+    weight: 200
+  - parent: About
+    name: I can do
+    url: i_can_do
+    weight: 200
   - parent: About
     name: Way to come
     url: contact
