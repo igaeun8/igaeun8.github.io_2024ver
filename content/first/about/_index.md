@@ -89,7 +89,7 @@ sections:
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
         - name: Easy
-          icon: medical.svg
+          icon: logo.svg
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
         - name: No-Code
           icon: code-bracket
