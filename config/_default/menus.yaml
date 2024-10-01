@@ -72,17 +72,17 @@ main:
 
   - parent: Bookmarks
     name: JBNU
-    url: bookmarks_jbnu
+    url: /bookmark/bookmarks_jbnu/
     weight: 610
   - parent: Bookmarks
     name: Coding
-    url: bookmarks_coding
+    url: /bookmark/bookmarks_coding/
     weight: 610
   - parent: Bookmarks
     name: Youtube
-    url: bookmarks_youtube
+    url: /bookmark/bookmarks_youtube/
     weight: 610
   - parent: Bookmarks
     name: Blog
-    url: bookmarks_blog
+    url: /bookmark/bookmarks_blog/
     weight: 610
