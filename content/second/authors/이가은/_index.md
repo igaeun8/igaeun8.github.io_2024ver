@@ -13,6 +13,10 @@ last_name: Lee
 authors:
   - 이가은
 
+# Status emoji
+status:
+  icon: ☕️
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -28,17 +32,16 @@ organizations:
 bio: 저의 연구 관심 분야는 프론트 엔드, 모바일 컴퓨팅 및 프로그래밍 입니다.
 
 interests:
-  - 인공 지능
+  - 웹 개발
   - 프론트 엔드
-  - 모바일 컴퓨팅
+  - 백 엔드
 
 education:
   courses:
     - course: computer artificial intelligence
       institution: Jeonbuk Natioanl University
       year: 2023
-    - institution: Yuil high school
-      year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +51,7 @@ education:
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-social:
+profiles:
   - icon: at-symbol
     url: 'igaeun8@gmail.com'
     label: E-mail Me
