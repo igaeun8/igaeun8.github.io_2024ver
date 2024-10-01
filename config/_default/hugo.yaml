@@ -10,7 +10,7 @@ baseURL: 'https://leeegaeunn.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: second
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
