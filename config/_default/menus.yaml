@@ -24,6 +24,10 @@ main:
     url: contact
     weight: 200
 
+  - name: Project
+    url: travel_jejudo
+    weight: 300
+
   - name: Travel
     url: travel_jejudo
     weight: 300
@@ -32,12 +36,10 @@ main:
     name: Jejudo
     url: travel_jejudo
     weight: 310
-
   - parent: Travel
     name: Hukuoka
     url: travel_hukuoka
     weight: 320
-    
   - parent: Travel
     name: Danang
     url: travel_danang
@@ -64,7 +66,23 @@ main:
     url: publication
     weight: 610
 
+  - name: Bookmarks
+    url: post #이가은 입학 어디다가 넣지...;;
+    weight: 600
 
-  - name: Contact
-    url: contact
-    weight: 700
+  - parent: Bookmarks
+    name: JBNU
+    url: bookmarks_jbnu
+    weight: 610
+  - parent: Bookmarks
+    name: Coding
+    url: bookmarks_coding
+    weight: 610
+  - parent: Bookmarks
+    name: Youtube
+    url: bookmarks_youtube
+    weight: 610
+  - parent: Bookmarks
+    name: Blog
+    url: bookmarks_blog
+    weight: 610

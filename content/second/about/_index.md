@@ -1,4 +1,5 @@
 ---
+#about을 누르면 나타나는 페이지
 # Leave the homepage title empty to use the site title
 title:
 date: 2024-03-25
