@@ -7,6 +7,8 @@ main:
   # - name: Home
   #   url: /
   #   weight: 1
+
+  #자기소개
   - name: About
     url: about
     weight: 100 
@@ -20,14 +22,39 @@ main:
     url: i_can_do
     weight: 200
   - parent: About
-    name: Way to come
+    name: Contact
     url: contact
     weight: 200
 
+#플젝
   - name: Project
     url: travel_jejudo
     weight: 300
 
+  - parent: Project
+    name: 파이썬 게임
+    url: travel_jejudo
+    weight: 310
+  - parent: Project
+    name: 자바 채팅방
+    url: travel_hukuoka
+    weight: 320
+
+#관심분야
+  - name: Interests
+    url: post #이가은 입학 어디다가 넣지...;;
+    weight: 600
+
+  - parent: Interests
+    name: Interest Fields
+    url: field
+    weight: 610
+  - parent: Interests
+    name: Publications
+    url: publication
+    weight: 610
+
+#여행
   - name: Travel
     url: travel_jejudo
     weight: 300
@@ -45,27 +72,7 @@ main:
     url: travel_danang
     weight: 320
 
-  # - name: Projects
-  #   url: project
-  #   weight: 400
-
-
-  # - name: Coursework
-  #   url: publication
-  #   weight: 500
-
-  - name: Interests
-    url: post #이가은 입학 어디다가 넣지...;;
-    weight: 600
-  - parent: Interests
-    name: Interest Fields
-    url: field
-    weight: 610
-  - parent: Interests
-    name: Publications
-    url: publication
-    weight: 610
-
+#즐겨찾기
   - name: Bookmarks
     url: post #이가은 입학 어디다가 넣지...;;
     weight: 600
