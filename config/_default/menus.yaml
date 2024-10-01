@@ -15,7 +15,7 @@ main:
 
   - parent: About
     name: Intro
-    url: /author/admin/
+    url: /author/이가은/
     weight: 200
   - parent: About
     name: I can do
