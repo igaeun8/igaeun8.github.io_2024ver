@@ -62,15 +62,15 @@ main:
   - parent: Travel
     name: Jejudo
     url: travel_jejudo
-    weight: 500
+    weight: 510
   - parent: Travel
     name: Hukuoka
     url: travel_hukuoka
-    weight: 500
+    weight: 520
   - parent: Travel
     name: Danang
     url: travel_danang
-    weight: 500
+    weight: 530
 
 #즐겨찾기
   - name: Bookmarks
@@ -80,16 +80,16 @@ main:
   - parent: Bookmarks
     name: JBNU
     url: bookmarks_jbnu
-    weight: 600
+    weight: 610
   - parent: Bookmarks
     name: Coding
     url: bookmarks_coding
-    weight: 600
+    weight: 620
   - parent: Bookmarks
     name: Youtube
     url: bookmarks_youtube
-    weight: 600
+    weight: 630
   - parent: Bookmarks
     name: Blog
     url: bookmarks_blog
-    weight: 600
+    weight: 640
