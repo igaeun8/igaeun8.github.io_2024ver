@@ -20,11 +20,11 @@ main:
   - parent: About
     name: I can do
     url: i_can_do
-    weight: 200
+    weight: 210
   - parent: About
     name: Contact
     url: contact
-    weight: 200
+    weight: 220
 
 #플젝
   - name: Project
