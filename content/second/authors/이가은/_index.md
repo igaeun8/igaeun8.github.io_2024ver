@@ -51,18 +51,25 @@ education:
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
+
 profiles:
   - icon: at-symbol
-    url: 'igaeun8@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/discord
-    url: https://discord.com/channels/igaeun4652
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/__kkany__/
-  - icon: brands/youtube
-    url: https://www.youtube.com/@Leegaeuunn
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/igaeun8
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
