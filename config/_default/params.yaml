@@ -15,8 +15,8 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    #site_type: Organization
+    #site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: 'Leegaeun'
     description: '안녕하세요 이가은 입니다.'
