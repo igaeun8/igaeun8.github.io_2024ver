@@ -11,9 +11,6 @@ ko:
 en:
   languageCode: en-us
   contentDir: content/second
-ja:
-  languageCode: ja
-  contentDir: content/second
 
 
 # Uncomment the lines below to configure your website in a second language.
