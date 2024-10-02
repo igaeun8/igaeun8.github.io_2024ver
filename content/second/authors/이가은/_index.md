@@ -57,7 +57,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'igaeun8@gmail.com'
+    link: 'mailto:igaeun8@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/igaeun8

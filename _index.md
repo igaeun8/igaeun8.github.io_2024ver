@@ -10,7 +10,9 @@ sections:
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">Macs에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
+      text: <br><span style="font-size:125%">안녕하세요.
+웹 개발자가 되고 싶은 이가은입니다. 
+프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
 
   - block: slider
     content:
