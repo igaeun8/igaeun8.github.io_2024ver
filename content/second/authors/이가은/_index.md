@@ -13,16 +13,12 @@ last_name: Lee
 authors:
   - 이가은
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
 
 # Role/position
-role: undergraduate computer artificial intelligence
+role: 컴퓨터 인공지능 학부생
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +26,7 @@ organizations:
     url: https://www.jbnu.ac.kr/kor/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 저의 연구 관심 분야는 프론트 엔드, 모바일 컴퓨팅 및 프로그래밍 입니다.
+#bio: 저의 연구 관심 분야는 프론트 엔드, 모바일 컴퓨팅 및 프로그래밍 입니다.
 
 interests:
   - 웹 개발
@@ -82,5 +78,8 @@ email: 'igaeun8@gmail.com'
 
 ---
 
-안녕하세요. 저는 컴퓨터 인공지능 학부에 재학 중 입니다. 저의 관심 분야는 프론트 엔드 입니다. 
-어쩌고 자기소개 
+안녕하세요. 저는 컴퓨터 인공지능 학부에 재학 중 인 이가은 입니다. 저는 무언갈 표현하고 만들어 내는 것을 좋아해서 입시 미술을 했었습니다. 
+개인 사정으로 입시 미술을 그만두게 되었지만 비슷한 매력을 가진 코딩에 흥미가 생겼고, 
+디자인 요소를 사용할 수 있는 프론트엔드에 관심을 가지게 되었습니다.
+여러 경험을 통해 다양한 기술과 능력을 향상시켜 편리한 UX를 제공할 수 있는 프론트엔드 개발자가 되고 싶습니다. 
+ 아직 2학년 학부생이지만 훌륭한 개발자가 되기 위해 지속적으로 노력하겠습니다.  
