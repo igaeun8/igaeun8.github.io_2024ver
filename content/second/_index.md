@@ -18,8 +18,8 @@ sections:
     content:
       slides:
 
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:70%">Information</span>
+        content: <span style="font-size:70%">이가은에 대해 더 자세히 알고싶다면?</span>
         align: center
         background:
           image:
