@@ -96,30 +96,30 @@ sections:
       title: <span style="font-size:75%">Lab's Interests</span>
       text: 저희 연구실에서는 다음과 같은 연구/개발 분야에 관심을 쏟고 있습니다.<br><br><br><br>
       items:
-        - name: 인공지능(AI)
-          icon: code-branch
+        - name: 이름
+          icon: user
           icon_pack: fas
-          description: <span style="font-size:90%">의료 (Medical), 항공우주 (Aerospace), 컨텐츠 (Contents) 등 다양한 특성화 분야에 적응형 AI 기술 적용.</span><br><br>
-        - name: 멀티모달(Multi-modality)
-          icon: globe
+          description: <span style="font-size:90%">이가은</span><br><br>
+        - name: 생년월일
+          icon: calendar-days
           icon_pack: fas
-          description:  <span style="font-size:90%">Vision & Language 분야의 기반 AI 기술 개발 및 관련 응용 어플리케이션에 기술 적용.</span><br><br>
-        - name: 의료수학(Medical Math)
-          icon: calculator
+          description:  <span style="font-size:90%">2003.01.23</span><br><br>
+        - name: 위치
+          icon: location-dot
           icon_pack: fas
-          description:  <span style="font-size:90%">의료 분야에 대한 통계 분석 수행 및 의료 질병에 대한 수학적인 모델링 관련 연구 수행.</span><br><br>
-        - name: 컨텐츠 (Contents)
-          icon: comment-dots
+          description:  <span style="font-size:90%">전북대학교 공과대학 7호관</span><br><br>
+        - name: 연락처
+          icon: phone
           icon_pack: fas
-          description:  <span style="font-size:90%">웹툰 및 미디어 컨텐츠와 관련된 AI 기반 기술 개발 및 고도화.</span><br><br>
-        - name: 개발 (Development)
-          icon: laptop
+          description:  <span style="font-size:90%">+82-5906-5988</span><br><br>
+        - name: 이메일
+          icon: envelope
           icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
-        - name: 솔루션 (Solution)
-          icon: app-store-ios
-          icon_pack: fab
-          description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
+          description:  <span style="font-size:90%">igaeun8@gmail.com</span><br><br>
+        - name: 학력
+          icon: pen
+          icon_pack: fas
+          description:  <span style="font-size:90%">전북대학교 컴퓨터 인공지능 학부</span><br><br>
 
 
   - block: collection
