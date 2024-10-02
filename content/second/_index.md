@@ -29,9 +29,9 @@ sections:
           position: center
           color: '#000'
         link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          icon: face-smile
+          icon_pack: far
+          text: <span style="font-size:60%">Click Me</span>
           text-color: '#000'
           url: contact
 
