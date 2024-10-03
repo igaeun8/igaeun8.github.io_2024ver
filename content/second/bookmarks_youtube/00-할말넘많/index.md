@@ -3,6 +3,10 @@ title: 할말넘많
 date: 2024-10-02
 ---
 
+유튜브 주소 : 'https://www.youtube.com/channel/UCm3SDarPtTOS_NjCh9d3TDQ/featured' 
+
+https://www.youtube.com/channel/UCm3SDarPtTOS_NjCh9d3TDQ/featured
+
 social:
   - icon: youtube
     icon_pack: fab
