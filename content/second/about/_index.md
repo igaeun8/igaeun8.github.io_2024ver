@@ -22,7 +22,7 @@ sections:
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
@@ -67,7 +67,7 @@ sections:
         align: center
         background:
           image:
-            filename: recruitment.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
