@@ -2,7 +2,7 @@
 title: 할말넘많
 date: 2024-10-02
 ---
-[할말넘많](https://www.youtube.com/@heavytalker)
+[할말넘많 유튜브](https://www.youtube.com/@heavytalker)
 
 좋아하는 유튜버인 "할말넘많" 입니다. 
 
