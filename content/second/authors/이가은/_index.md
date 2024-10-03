@@ -75,20 +75,20 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: file
-    icon_pack: fas
-    link: static/cv.pdf
+#  - icon: file
+#    icon_pack: fas
+#    link: static/cv.pdf
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: 이가은
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: static/cv.pdf
     design:
       css_class: dark
       background:
