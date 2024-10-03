@@ -22,7 +22,7 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.5
           position: center
@@ -32,7 +32,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename:web_develop.jpg
             filters:
               brightness: 0.7
           position: right
@@ -42,7 +42,7 @@ sections:
         align: center
         background:
           image:
-            filename: contact.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.7
           position: center
@@ -52,7 +52,7 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.5
           position: center
@@ -76,7 +76,7 @@ sections:
   #     title: |
   #       <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab</span>
   #     image:
-  #       filename: welcome.jpg
+  #       filename: web_develop.jpg
   #     text: |
   #       <br>
         
