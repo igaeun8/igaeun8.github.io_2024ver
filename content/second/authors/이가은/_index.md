@@ -105,6 +105,38 @@ sections:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'igaeun8@gmail.com'
 
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: java
+        description: ''
+        percent: 80
+        icon: chart-bar
+      - name: c++
+        description: ''
+        percent: 80
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: travel
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
 ---
 
 안녕하세요. 저는 컴퓨터 인공지능 학부에 재학 중 인 이가은 입니다. 저는 무언갈 표현하고 만들어 내는 것을 좋아해서 입시 미술을 했었습니다. 
