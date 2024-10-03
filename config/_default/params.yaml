@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository: #고쳐야하나?
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://leegaeun.com'
     content_dir: content
     branch: main
   avatar:
