@@ -3,6 +3,11 @@ title: 할말넘많
 date: 2024-10-02
 ---
 
+social:
+  - icon: youtube
+    icon_pack: fab
+    link: 'https://www.youtube.com/channel/UCm3SDarPtTOS_NjCh9d3TDQ/featured'
+
 좋아하는 유튜버인 "할말넘많" 입니다. 
 
 <!--more-->
