@@ -23,7 +23,7 @@ sections:
         align: center
         background:
           image:
-            filename: recruitment.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
@@ -35,12 +35,12 @@ sections:
           text-color: '#000'
           url: contact
 
-      - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:70%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
+      - title: <span style="font-size:70%">안녕하세요.</span>
+        content: <span style="font-size:70%">웹 개발자가 되고 싶은 이가은입니다.<span style="font-size:70%">
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
@@ -51,7 +51,7 @@ sections:
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
@@ -62,7 +62,7 @@ sections:
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
@@ -73,7 +73,7 @@ sections:
         align: center
         background:
           image:
-            filename: aerospace.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
