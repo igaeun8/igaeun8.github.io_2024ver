@@ -1,5 +1,5 @@
 ---
-title: Jejudo
+title: Coding
 
 # Listing view
 view: community/custom_card
