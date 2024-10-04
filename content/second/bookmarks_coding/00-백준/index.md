@@ -1,5 +1,5 @@
 ---
-title: CSAI 
+title: Baekjoon Online Judge
 date: 2024-10-03
 ---
 
