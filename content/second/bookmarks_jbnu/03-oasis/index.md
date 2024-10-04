@@ -1,10 +1,10 @@
 ---
-title: CSAI 
+title: OASIS 
 date: 2024-10-03
 ---
 
-[전북대학교 컴퓨터인공지능학부](https://csai.jbnu.ac.kr/csai/index.do)
+[전북대학교 오아시스 홈페이지](https://oasis.jbnu.ac.kr/com)
 
 <!--more-->
 
-전북대학교 컴퓨터인공지능 학부 홈페이지 입니다. 
+전북대학교 오아시스 홈페이지 입니다. 
