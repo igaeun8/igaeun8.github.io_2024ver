@@ -1,10 +1,10 @@
 ---
-title: CSAI 
+title: Caht
 date: 2024-10-03
 ---
 
-[전북대학교 컴퓨터인공지능학부](https://csai.jbnu.ac.kr/csai/index.do)
+[챗지피티 홈페이지](https://chatgpt.com/)
 
 <!--more-->
 
-전북대학교 컴퓨터인공지능 학부 홈페이지 입니다. 
+챗 지피티 홈페이지 입니다. 
