@@ -3,8 +3,8 @@ title: CSAI
 date: 2024-10-03
 ---
 
-[전북대학교 컴퓨터인공지능학부](https://csai.jbnu.ac.kr/csai/index.do)
+[백준 홈페애지](https://www.acmicpc.net/)
 
 <!--more-->
 
-전북대학교 컴퓨터인공지능 학부 홈페이지 입니다. 
+백준 온라인 저지 홈페이지 입니다. 
