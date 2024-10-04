@@ -1,5 +1,5 @@
 ---
-title: Jejudo
+title: Blog
 
 # Listing view
 view: community/custom_card

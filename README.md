@@ -35,11 +35,18 @@ We're an open source movement that depends on your support to stay online and th
 
 ## Demo credits
 
-Please replace the demo images with your own.
+사진 출처
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
+- [ai.jpg](https://unsplash.com/photos/uVnRa6mOLOM)
+- [cloud_computing.jpg](https://unsplash.com/photos/kwzWjTnDPLk)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
+- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
 - Blog posts
   - https://unsplash.com/photos/AndE50aaHn4
   - https://unsplash.com/photos/OYzbqk2y26c
