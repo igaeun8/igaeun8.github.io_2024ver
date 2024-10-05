@@ -161,7 +161,7 @@ sections:
 
   - block: collection
     content:
-      title: Interests
+      title: Travel
       subtitle:
       text:
       count: 3
@@ -173,7 +173,10 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: field
+      page_type: 
+          - travel_jejudo
+          - travel_fukuoka
+          - travel_danang
     design:
       view: showcase
       columns: '2'
