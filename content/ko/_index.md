@@ -166,14 +166,6 @@ sections:
       text:
       count: 3
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: 
           - travel_jejudo
           - travel_fukuoka
           - travel_danang
