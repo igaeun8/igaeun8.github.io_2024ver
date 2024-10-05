@@ -6,9 +6,6 @@ title: '포트폴리오 웹사이트'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 이가은
-  - 마음
-  - 이진선
-  - 김준형
 
 # Author notes (optional)
 author_notes:
