@@ -35,8 +35,8 @@ interests:
 
 education:
   courses:
-    - course: computer artificial intelligence
-      institution: Jeonbuk Natioanl University
+    - course: 컴퓨터 인공지능 학부
+      institution: 전북대
       year: 2023
 
 
