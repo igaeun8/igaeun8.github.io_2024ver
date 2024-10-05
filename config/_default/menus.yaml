@@ -28,30 +28,13 @@ main:
 
 #플젝
   - name: Project
-    url: travel_jejudo
+    url: project
     weight: 300
 
-  - parent: Project
-    name: 파이썬 게임
-    url: travel_jejudo
-    weight: 300
-  - parent: Project
-    name: 자바 채팅방
-    url: travel_hukuoka
-    weight: 300
 
 #관심분야
-  - name: Interests
+  - name: Interests Fields
     url: post #이가은 입학 어디다가 넣지...;;
-    weight: 400
-
-  - parent: Interests
-    name: Interest Fields
-    url: field
-    weight: 400
-  - parent: Interests
-    name: Publications
-    url: publication
     weight: 400
 
 #여행
@@ -74,7 +57,7 @@ main:
 
 #즐겨찾기
   - name: Bookmarks
-    url: post #이가은 입학 어디다가 넣지...;;
+    url: post 
     weight: 600
 
   - parent: Bookmarks
