@@ -21,6 +21,10 @@ main:
     name: Contact
     url: contact
     weight: 210
+  - parent: About
+    name: News
+    url: post
+    weight: 210
 
 #플젝
   - name: Project
@@ -30,7 +34,7 @@ main:
 
 #관심분야
   - name: Interests Fields
-    url: post #이가은 입학 어디다가 넣지...;;
+    url: field
     weight: 400
 
 #여행
