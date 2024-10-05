@@ -20,10 +20,10 @@ marketing:
     local_business_type: ''
     org_name: '이가은'
     description: '전북대학교 컴퓨터인공지능학부 이가은'
-    twitter: 'GetResearchDev'
+    twitter: ''
     open_graph:
       title: '전북대 이가은'
-      image: icon.png
+      image: 'https://images.unsplash.com/photo-1571566882372-1598d88abd90?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   analytics:
     google: 'a7iVzef2Zp3fd2Fg0BNgp2R7iR-jRh_bZPFrt20xfIE'
     google_analytics: 'a7iVzef2Zp3fd2Fg0BNgp2R7iR-jRh_bZPFrt20xfIE'
