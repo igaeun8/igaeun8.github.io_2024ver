@@ -37,4 +37,7 @@ tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
 # Display this page in the Featured widget?
 featured: true
 url_code: ''
+
+url_source: 'https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Self-Mutating_Network_for_Domain_Adaptive_Segmentation_in_Aerial_Images_ICCV_2021_paper.html'
+
 ---
