@@ -16,9 +16,8 @@ sections:
   - block: slider
     content:
       slides:
-
       - title: <span style="font-size:90%">About Me</span>
-        content: <span style="font-size:90%">컴퓨터와 친해지고 싶은<span style="font-size:90%">
+        content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
         align: center
         background:
           image:
@@ -44,7 +43,7 @@ sections:
         align: center
         background:
           image:
-            filename: iot.jpg
+            filename: fukuoka.jpg
             filters:
               brightness: 0.4
           position: center
@@ -55,7 +54,7 @@ sections:
         align: center
         background:
           image:
-            filename: cloud_computing.jpg
+            filename: web_develop.jpg
             filters:
               brightness: 0.4
           position: center
@@ -67,7 +66,7 @@ sections:
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: avatar.jpg
             filters:
               brightness: 0.4
           position: center
