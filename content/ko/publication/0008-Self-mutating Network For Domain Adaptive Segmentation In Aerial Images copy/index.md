@@ -38,6 +38,6 @@ tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
 featured: true
 url_code: ''
 
-url_source: 'https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Self-Mutating_Network_for_Domain_Adaptive_Segmentation_in_Aerial_Images_ICCV_2021_paper.html'
+url_source: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 
 ---
