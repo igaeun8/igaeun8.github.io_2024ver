@@ -119,5 +119,4 @@ publications:
   citation_style: apa
 
 params:
-  mainImage: image.png  # 이미지 경로를 여기에 설정
-
+  theme_color: blue  # 테마 색상으로 오렌지색 설정
