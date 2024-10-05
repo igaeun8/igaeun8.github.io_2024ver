@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 publication: 객체지향프로그래밍(자바)
 publication_short: 객체지향프로그래밍(자바)
 
-abstract: 쿠키런 게임을 재구성하였고 그 중 채팅방을 만들었습니다. 
+abstract: 깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사이트를 만들고 있습니다.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -38,4 +38,4 @@ tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
 featured: true
 url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 ---
-쿠키런 게임을 재구성하였고 그 중 채팅방을 만들었습니다. 
+깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사이트를 만들고 있습니다.
