@@ -166,14 +166,19 @@ sections:
       text:
       count: 3
       filters:
+        folders:
           - travel_jejudo
           - travel_fukuoka
           - travel_danang
+      offset: 0
+      order: desc
+      page_type: field
     design:
-      view: showcase
+      view: community/custom_card
       columns: '2'
     advanced:
       css_style: "text-align: center;"
+
 
   - block: markdown
     content:
