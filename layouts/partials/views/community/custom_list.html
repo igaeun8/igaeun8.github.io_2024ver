@@ -22,19 +22,20 @@
 
 <div class="card">
   {{ with $resource }}
-  {{ $image := .Resize "550x" }}
+  {{ $image := .Resize "100" }}  <!-- 이미지 사이즈 조정 -->
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
-    <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-         alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-top: 15px;">
-  </a>
+  <div class="card-header">  <!-- 카드 헤더 추가 -->
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+           alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-right: 10px; display: inline-block;">  <!-- 이미지가 제목 옆에 나타나도록 스타일 조정 -->
+    </a>
+    <h4 style="display: inline-block;">  <!-- 제목을 inline-block으로 조정 -->
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a>
+    </h4>
+  </div>
   {{ end }}
-  
-  <div class="card-text">
-    <div class="section-subheading article-title mb-1 mt-3">
-        <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
-    </div>
 
+  <div class="card-text">
     {{ if $item.Params.authors }}
     <div class="article-metadata">
         <div>
