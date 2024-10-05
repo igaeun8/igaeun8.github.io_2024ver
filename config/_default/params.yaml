@@ -5,11 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  theme_color: green
-  font: native
-  font_size: L
+  mode: system
+  color: emerald
 
 # SEO
 
