@@ -53,6 +53,7 @@ card_background = "rgb(38, 50, 56)"  # 카드 배경: 어두운 회색-파란색
 card_text_color_in_site_footer = "#80cbc4"  # 푸터의 카드 텍스트: 부드러운 민트색
 card_border_color = "rgba(255, 255, 255, 0.1)"  # 카드 테두리: 연한 흰색
 
+
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
 description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
