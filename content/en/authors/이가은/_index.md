@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 이가은
+title: Lee Gaeun
 
 # Name pronunciation (optional)
 name_pronunciation: Lee Gaeun
