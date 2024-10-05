@@ -61,3 +61,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  mainImage: "media/image.png"  # 이미지 경로를 여기에 설정
