@@ -1,5 +1,5 @@
 ---
-title: '깃허브 포트폴리오 웹사이트'
+title: '깃허브 휴고 템플릿 포트폴리오 웹사이트'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
