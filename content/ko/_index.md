@@ -133,7 +133,7 @@ sections:
       order: desc
       filters:
         folders:
-          - feild
+          - project
     design:
       view: community/custom_card
       columns: '2'
