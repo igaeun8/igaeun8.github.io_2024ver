@@ -7,7 +7,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
+  font: custom
   font_size: L
 
 # SEO
@@ -71,7 +71,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository: #고쳐야하나?
+  repository: 
     url: 'https://github.com/igaeun8/igaeun8.github.io'
     content_dir: content
     branch: main
@@ -90,7 +90,7 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search: #고쳐야하나?
+  search: 
     provider: wowchemy
     algolia:
       app_id: ''
