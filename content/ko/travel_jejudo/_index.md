@@ -2,7 +2,7 @@
 title: Jejudo
 
 # Listing view
-view: community/custom_card
+view: community/custom_list
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Card UI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .card img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+
+    .card-content {
+      padding: 15px;
+    }
+
+    .card-title {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+
+    .card-text {
+      font-size: 0.9em;
+      color: #555;
+    }
+
+    .card a {
+      color: #007BFF;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+      display: inline-block;
+    }
+
+    .card a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card-container">
+    <!-- Card 1 -->
+    <div class="card">
+      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 1">
+      <div class="card-content">
+        <h3 class="card-title">Welcome to Wowchemy</h3>
+        <p class="card-text">We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.</p>
+        <a href="#">Learn more →</a>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 2">
+      <div class="card-content">
+        <h3 class="card-title">Writing Technical Content</h3>
+        <p class="card-text">You can focus on the content and Academic handles the rest. Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.</p>
+        <a href="#">Read more →</a>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="card">
+      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 3">
+      <div class="card-content">
+        <h3 class="card-title">Display Jupyter Notebooks</h3>
+        <p class="card-text">Learn how to blog in Academic using Jupyter notebooks to share your scientific content.</p>
+        <a href="#">Find out more →</a>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="card">
+      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 4">
+      <div class="card-content">
+        <h3 class="card-title">Welcome to Academic</h3>
+        <p class="card-text">Explore powerful features like structured author pages and publication management.</p>
+        <a href="#">Explore features →</a>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
