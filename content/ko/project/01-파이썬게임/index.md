@@ -37,3 +37,6 @@ tags: ['파이썬', '게임', '수도퀴즈', '팀프로젝트']
 featured: true
 url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\project\01-파이썬게임\수도_퀴즈_레포트.pdf'
 ---
+
+파이썬으로 수도 퀴즈 게임을 만들었습니다.
+
