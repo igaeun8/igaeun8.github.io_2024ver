@@ -120,3 +120,4 @@ publications:
 
 params:
   theme_color: blue  # 테마 색상으로 오렌지색 설정
+  mainImage: "assets/media/image.png"
