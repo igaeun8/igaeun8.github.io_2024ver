@@ -121,3 +121,7 @@ publications:
   date_format: January 2006 #고쳐야하나?
   citation_style: apa
 
+params:
+  featured_image: 'featured_image.png'  # 사이트 전체의 대표 이미지 경로
+
+
