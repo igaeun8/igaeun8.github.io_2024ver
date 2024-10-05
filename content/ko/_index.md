@@ -125,7 +125,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: Project
       subtitle:
       text:
       count: 3
@@ -133,9 +133,7 @@ sections:
       order: desc
       filters:
         folders:
-          - notification
-          - post
-          - event
+          - feild
     design:
       view: community/custom_card
       columns: '2'
