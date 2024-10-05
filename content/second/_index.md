@@ -9,7 +9,7 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-size:70%">안녕하세요. 웹 개발자가 되고 싶은 이가은입니다.</span>
+      title: <span style="font-size:70%">안녕하세요. 전북대학교 컴퓨터 인공지능학부 이가은입니다.</span>
       text: <br><span style="font-size:125%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span> <br><br>
         {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
 
