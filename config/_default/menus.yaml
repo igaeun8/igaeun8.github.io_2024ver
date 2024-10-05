@@ -18,13 +18,9 @@ main:
     url: /author/이가은/
     weight: 200
   - parent: About
-    name: I can do
-    url: i_can_do
-    weight: 210
-  - parent: About
     name: Contact
     url: contact
-    weight: 220
+    weight: 210
 
 #플젝
   - name: Project
