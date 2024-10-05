@@ -7,10 +7,10 @@
 ko: 
   languageCode: ko
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/second
+  contentDir: content/ko
 en:
   languageCode: en-us
-  contentDir: content/second
+  contentDir: content/en
 
 
 # Uncomment the lines below to configure your website in a second language.
