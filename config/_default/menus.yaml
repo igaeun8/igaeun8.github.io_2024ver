@@ -64,8 +64,8 @@ main:
     url: travel_jejudo
     weight: 510
   - parent: Travel
-    name: Hukuoka
-    url: travel_hukuoka
+    name: Fukuoka
+    url: travel_fukuoka
     weight: 520
   - parent: Travel
     name: Danang
