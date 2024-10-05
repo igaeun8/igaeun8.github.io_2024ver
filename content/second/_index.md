@@ -161,6 +161,26 @@ sections:
     advanced:
       css_style: "text-align: center;"
 
+  - block: collection
+    content:
+      title: Interests
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: field
+    design:
+      view: showcase
+      columns: '2'
+    advanced:
+      css_style: "text-align: center;"
 
   - block: markdown
     content:
