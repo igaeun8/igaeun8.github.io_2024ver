@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: green
-  theme_night: green
+  theme_day: forest
+  theme_night: forest
   font: custom
   font_size: L
   color: green
