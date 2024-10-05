@@ -15,8 +15,8 @@ appearance:
 
 marketing:
   seo:
-    #site_type: Person
-    site_type: Organization
+    site_type: Person
+    #site_type: Organization
     local_business_type: ''
     org_name: ''
     description: '전북대 이가은'
@@ -56,8 +56,8 @@ footer:
 # Localization
 
 locale: #고쳐야하나?
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Jan 23, 2003'
+  time_format: '11:04 PM'
   #address_format: en-us
 
 # Site features
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository: #고쳐야하나?
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/igaeun8/igaeun8.github.io'
     content_dir: content
     branch: main
   avatar:
