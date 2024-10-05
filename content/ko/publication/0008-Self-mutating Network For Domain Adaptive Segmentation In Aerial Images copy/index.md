@@ -1,13 +1,14 @@
 ---
-title: 'Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images'
+title: '자바 쿠키런 + 채팅방'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 이경수
-  - 이해윤
-  - 황재윤
+  - 이가은
+  - 마음
+  - 이진선
+  - 김준형
 
 # Author notes (optional)
 author_notes:
@@ -16,12 +17,8 @@ author_notes:
   - 'Corresponding author'
 # {{equal}}
 
-# date format: '2013-07-01T00:00:00Z'
-date: '2021-10-17'
-doi: 'https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Self-Mutating_Network_for_Domain_Adaptive_Segmentation_in_Aerial_Images_ICCV_2021_paper.html'
-
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-10-17'
+publishDate: '2024-06-21'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,15 +26,15 @@ publishDate: '2021-10-17'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Computer Vision
-publication_short: International Conference on Computer Vision (ICCV)  [__Top AI & CV Conference__]
+publication: 객체지향프로그래밍(자바)
+publication_short: 객체지향프로그래밍(자바)
 
-abstract: The domain-adaptive semantic segmentation in aerial images by a deep-learning technique remains a challenge owing to the domain gaps caused by a resolution, image sensors, time-zone, the density of buildings, and even building styles of each city. Currently, convolutional neural network (CNN)-based domain adaptation methodologies have been developed to decrease the domain gaps, but, they have shown still poor performance to utilize multiple aerial images in different domains. In this paper, therefore, the CNN-based network denoted as Self-Mutating Network, which changes the values of parameters of convolutional filters itself according to the domain of input image, is proposed. By adopting Parameter Mutation to change the values of parameters and Parameter Fluctuation to randomly convulse the parameters, the network self-changes and fine-tunes the parameters, then achieves better predictions of a domain-adaptive segmentation. Through the ablation study of the Self-Mutating Network, we concluded that the Self-Mutating Network can be utilized in the domain-adaptive semantic segmentation of aerial images in different domains.
+abstract: 쿠키런 게임을 재구성하였고 그 중 채팅방을 만들었습니다. 
 
 # Summary. An optional shortened abstract.
 summary: ___ICCV 2021 (Top AI & CV Conference)___ <br> _International Conference on Computer Vision2021_
 
-tags: ['AI', 'remote sensing', 'domain adaptation', 'segmentation', 'fine-tuning']
+tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,7 +50,7 @@ url_code: ''
 # url_poster: '{{url_poster}}'
 # url_project: ''
 # url_slides: ''
-url_source: 'https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Self-Mutating_Network_for_Domain_Adaptive_Segmentation_in_Aerial_Images_ICCV_2021_paper.html'
+#url_source: 'https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Self-Mutating_Network_for_Domain_Adaptive_Segmentation_in_Aerial_Images_ICCV_2021_paper.html'
 # url_video: ''
 
 # Featured image
