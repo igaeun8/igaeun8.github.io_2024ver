@@ -1,13 +1,12 @@
 ---
-title: '파이썬 수도 퀴즈 게임'
+title: '깃허브 포트폴리오 웹사이트'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 이가은
-  - 최정식
-  - 정지연
+  - 챗지피티
 
 # Author notes (optional)
 author_notes:
@@ -15,7 +14,7 @@ author_notes:
 # {{equal}}
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-23'
+publishDate: '2024-10-06'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,20 +22,18 @@ publishDate: '2023-06-23'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 컴퓨터과학과코딩
-publication_short: 컴퓨터과학과코딩
+publication: 웹서비스설계
+publication_short: 웹서비스설계
 
-abstract: 파이썬으로 수도 퀴즈 게임을 만들었습니다.
+abstract: 깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사이트를 만들고 있습니다.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['파이썬', '게임', '수도퀴즈', '팀프로젝트']
+tags: ['깃허브', '웹사이트', '아직 진행중', '개인프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
 url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\project\01-파이썬게임\수도_퀴즈_레포트.pdf'
 ---
-
-파이썬으로 수도 퀴즈 게임을 만들었습니다.
-
+깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사이트를 만들고 있습니다.
