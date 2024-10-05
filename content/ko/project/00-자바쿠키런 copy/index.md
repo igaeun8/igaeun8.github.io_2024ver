@@ -29,7 +29,7 @@ abstract: 깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사�
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
+tags: ['깃허브', '휴고 템플릿', '개인 프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
