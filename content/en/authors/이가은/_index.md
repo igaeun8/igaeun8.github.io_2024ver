@@ -29,10 +29,10 @@ organizations:
 #bio: 저의 연구 관심 분야는 프론트 엔드, 모바일 컴퓨팅 및 프로그래밍 입니다.
 
 interests:
-  - 웹 개발
-  - 프론트 엔드
-  - 백 엔드
-
+  - Web Development
+  - Front End
+  - Back End
+  
 education:
   courses:
     - course: computer artificial intelligence
