@@ -20,22 +20,29 @@
 
 {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 
-<div class="card">
-  {{ with $resource }}
-  {{ $image := .Resize "550x300" }}  <!-- 이미지 사이즈 조정 -->
-  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-  <div class="card-header">  <!-- 카드 헤더 추가 -->
+<div class="showcase-item card">
+  <div class="showcase-header">
+    {{ with $resource }}
+    {{ $image := .Resize "550x300" }}  <!-- Resize the image -->
+    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
       <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-           alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-right: 10px; display: inline-block;">  <!-- 이미지가 제목 옆에 나타나도록 스타일 조정 -->
+           alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-right: 10px; display: inline-block;">  <!-- Style the image -->
     </a>
-    <h4 style="display: inline-block;">  <!-- 제목을 inline-block으로 조정 -->
+    {{ end }}
+
+    <h4 style="display: inline-block;">
       <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a>
     </h4>
   </div>
-  {{ end }}
 
-  <div class="card-text">
+  <div class="showcase-body">
+    <div class="card-text">
+      {{ with $summary }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </div>
+
     {{ if $item.Params.authors }}
     <div class="article-metadata">
         <div>
@@ -43,17 +50,11 @@
         </div>
     </div>
     {{ end }}
-
-    {{ with $summary }}
-    <div class="article-style">
-      <p>{{ . }}</p>
-    </div>
-    {{ end }}
-
-    {{ if $has_attachments }}
-    <div class="btn-links">
-      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
-    </div>
-    {{ end }}
   </div>
+
+  {{ if $has_attachments }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
 </div>
