@@ -22,7 +22,7 @@
 
 <div class="card">
   {{ with $resource }}
-  {{ $image := .Resize "100" }}  <!-- 이미지 사이즈 조정 -->
+  {{ $image := .Resize "550x300" }}  <!-- 이미지 사이즈 조정 -->
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
   <div class="card-header">  <!-- 카드 헤더 추가 -->
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
