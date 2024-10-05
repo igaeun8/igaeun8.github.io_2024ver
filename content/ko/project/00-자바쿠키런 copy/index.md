@@ -33,6 +33,6 @@ tags: ['깃허브', '휴고 템플릿', '개인 프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
-url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
+#url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 ---
 깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사이트를 만들고 있습니다.
