@@ -21,6 +21,7 @@ marketing:
     description: '전북대 이가은'
     twitter: 'GetResearchDev'
   analytics:
+    google: ""
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
