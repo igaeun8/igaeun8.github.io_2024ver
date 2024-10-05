@@ -1,107 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Card UI</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
 
-    .card-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      justify-content: center;
-    }
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
 
-    .card {
-      display: flex;
-      flex-direction: column;
-      width: 300px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if $item.Params.abstract }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
 
-    .card img {
-      width: 100%;
-      height: 200px;
-      object-fit: cover;
-    }
+{{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 
-    .card-content {
-      padding: 15px;
-    }
-
-    .card-title {
-      font-size: 1.2em;
-      margin-bottom: 10px;
-    }
-
-    .card-text {
-      font-size: 0.9em;
-      color: #555;
-    }
-
-    .card a {
-      color: #007BFF;
-      text-decoration: none;
-      font-weight: bold;
-      margin-top: 10px;
-      display: inline-block;
-    }
-
-    .card a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="card-container">
-    <!-- Card 1 -->
-    <div class="card">
-      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 1">
-      <div class="card-content">
-        <h3 class="card-title">Welcome to Wowchemy</h3>
-        <p class="card-text">We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.</p>
-        <a href="#">Learn more →</a>
-      </div>
+<div class="card">
+  {{ with $resource }}
+  {{ $image := .Resize "550x" }}
+  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+    <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+         alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-top: 15px;">
+  </a>
+  {{ end }}
+  
+  <div class="card-text">
+    <div class="section-subheading article-title mb-1 mt-3">
+        <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
     </div>
 
-    <!-- Card 2 -->
-    <div class="card">
-      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 2">
-      <div class="card-content">
-        <h3 class="card-title">Writing Technical Content</h3>
-        <p class="card-text">You can focus on the content and Academic handles the rest. Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.</p>
-        <a href="#">Read more →</a>
-      </div>
+    {{ if $item.Params.authors }}
+    <div class="article-metadata">
+        <div>
+            {{ partial "page_metadata_authors" $item }}
+        </div>
     </div>
+    {{ end }}
 
-    <!-- Card 3 -->
-    <div class="card">
-      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 3">
-      <div class="card-content">
-        <h3 class="card-title">Display Jupyter Notebooks</h3>
-        <p class="card-text">Learn how to blog in Academic using Jupyter notebooks to share your scientific content.</p>
-        <a href="#">Find out more →</a>
-      </div>
+    {{ with $summary }}
+    <div class="article-style">
+      <p>{{ . }}</p>
     </div>
+    {{ end }}
 
-    <!-- Card 4 -->
-    <div class="card">
-      <img src="https://via.placeholder.com/300x200.png" alt="Card Image 4">
-      <div class="card-content">
-        <h3 class="card-title">Welcome to Academic</h3>
-        <p class="card-text">Explore powerful features like structured author pages and publication management.</p>
-        <a href="#">Explore features →</a>
-      </div>
+    {{ if $has_attachments }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
+    {{ end }}
   </div>
-
-</body>
-</html>
+</div>
