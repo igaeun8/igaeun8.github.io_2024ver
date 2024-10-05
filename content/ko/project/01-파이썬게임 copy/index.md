@@ -6,8 +6,8 @@ title: '깃허브 휴고 템플릿 포트폴리오 웹사이트'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 이가은
-  - 인생은 혼자다.
-
+  - 이가은
+  - 이가은
 # Author notes (optional)
 author_notes:
   - 'Corresponding author'
@@ -30,7 +30,7 @@ abstract: 깃허브와 휴고 템플릿을 이용해 개인 포트폴리오 사�
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['깃허브', '웹사이트', '아직 진행중', '개인프로젝트']
+tags: ['깃허브', '웹사이트', '개인프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
