@@ -9,7 +9,7 @@ appearance:
   theme_night: forest
   font: custom
   font_size: L
-  color: green
+
 
 # SEO
 
@@ -118,6 +118,3 @@ publications:
   date_format: January 2006 #고쳐야하나?
   citation_style: apa
 
-params:
-  theme_color: blue  # 테마 색상으로 오렌지색 설정
-  mainImage: "assets/media/image.png"
