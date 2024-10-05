@@ -6,6 +6,7 @@ title: '깃허브 포트폴리오 웹사이트'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - 이가은
+  - 챗지피티
 
 # Author notes (optional)
 author_notes:
