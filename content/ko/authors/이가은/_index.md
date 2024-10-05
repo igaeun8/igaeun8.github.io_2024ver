@@ -79,31 +79,6 @@ social:
 #    icon_pack: fas
 #    link: static/files/cv.pdf
 
-
-
-sections:
-  - block: markdown
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: 이가은
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: static/cv.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'igaeun8@gmail.com'
 
