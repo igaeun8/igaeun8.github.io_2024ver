@@ -32,7 +32,7 @@ interests:
   - Web Development
   - Front End
   - Back End
-  
+
 education:
   courses:
     - course: computer artificial intelligence
@@ -145,8 +145,8 @@ email: 'igaeun8@gmail.com'
 
 ---
 
-안녕하세요. 저는 컴퓨터 인공지능 학부에 재학 중 인 이가은 입니다. 저는 무언갈 표현하고 만들어 내는 것을 좋아해서 입시 미술을 했었습니다. 
-개인 사정으로 입시 미술을 그만두게 되었지만 비슷한 매력을 가진 코딩에 흥미가 생겼고, 
-디자인 요소를 사용할 수 있는 프론트엔드에 관심을 가지게 되었습니다.
-여러 경험을 통해 다양한 기술과 능력을 향상시켜 편리한 UX를 제공할 수 있는 프론트엔드 개발자가 되고 싶습니다. 
- 아직 2학년 학부생이지만 훌륭한 개발자가 되기 위해 지속적으로 노력하겠습니다.  
+Hello, I'm Lee Ga-eun, a computer artificial intelligence major. I like to express and create something, so I did art for entrance examinations. 
+I quit the art of entrance examination due to personal reasons, but I became interested in coding with similar charms, 
+I became interested in the front end where design elements could be used.
+I want to be a front-end developer who can provide convenient UX by improving various skills and abilities through various experiences. 
+ I'm still a second-year undergraduate, but I'll continue to work hard to become a great developer.
