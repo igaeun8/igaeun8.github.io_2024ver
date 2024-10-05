@@ -36,7 +36,7 @@ tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
-url_code: ''
+url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 
 url_source: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 
