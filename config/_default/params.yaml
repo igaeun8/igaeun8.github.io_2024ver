@@ -5,8 +5,10 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_day: minimal
+  theme_night:
+  font: native
+  font_size: L
 
 # SEO
 
@@ -34,7 +36,8 @@ header:
     align: c
     fixed_to_top: true
     show_logo: true
-    show_theme_chooser: true
+    show_language: true
+    show_day_night: true
     show_search: true
     highlight_active_link: false
 
