@@ -23,7 +23,7 @@ marketing:
     twitter: 'GetResearchDev'
     open_graph:
       title: '전북대 이가은'
-      image: ''
+      image: 'image.png'
   analytics:
     google: 'a7iVzef2Zp3fd2Fg0BNgp2R7iR-jRh_bZPFrt20xfIE'
     google_analytics: 'a7iVzef2Zp3fd2Fg0BNgp2R7iR-jRh_bZPFrt20xfIE'
