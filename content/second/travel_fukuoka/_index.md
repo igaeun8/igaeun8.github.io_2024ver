@@ -1,5 +1,5 @@
 ---
-title: Hukuoka
+title: Fukuoka
 
 # Listing view
 view: community/custom_card
