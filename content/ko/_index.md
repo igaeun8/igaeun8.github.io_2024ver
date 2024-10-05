@@ -2,7 +2,7 @@
 #로고를 누르면 나타나는 메인 페이지
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-03-25
+date: 2024-10-05
 type: landing
 
 sections:
