@@ -7,7 +7,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  color: green
+  theme_color: green
   font: native
   font_size: L
 
