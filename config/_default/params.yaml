@@ -126,3 +126,5 @@ publications:
   date_format: January 2006 #고쳐야하나?
   citation_style: apa
 
+ogImage: "assets/media/logo.png"  # Ensure the image exists at this path
+
