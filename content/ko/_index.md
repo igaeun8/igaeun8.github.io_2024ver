@@ -11,6 +11,7 @@ sections:
     content:
       title: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다.</span>
       text: <br><span style="font-size:100%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
+
   - block: slider
     content:
       slides:
@@ -30,7 +31,7 @@ sections:
           text: <span style="font-size:60%">Click Me</span>
           text-color: '#000'
           url: contact
-          - title: <span style="font-size:90%">About Me</span>
+      - title: <span style="font-size:90%">About Me</span>
         content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
         align: center
         background:

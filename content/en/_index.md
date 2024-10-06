@@ -6,6 +6,11 @@ date: 2024-10-05
 type: landing
 
 sections:
+
+  - block: features
+    content:
+      title: <br><span style="font-size:125%">Hello, I'm Gaeun Lee, aspiring to become a web developer.</span>
+      text: <br><span style="font-size:100%">Watch my journey from frontend to full stack development.</span>
   - block: slider
     content:
       slides:
@@ -25,11 +30,6 @@ sections:
           text: <span style="font-size:60%">Click Me</span>
           text-color: '#000'
           url: contact
-  
-
-  - block: slider
-    content:
-      slides:
       - title: <span style="font-size:90%">About Me</span>
         content: <span style="font-size:90%">Wants to get closer to computers</span>
         align: center
@@ -73,6 +73,10 @@ sections:
           position: center
           color: '#000'
 
+  
+
+  - block: slider
+   
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
