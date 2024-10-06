@@ -15,7 +15,7 @@ main:
 
   - parent: About
     name: Intro
-    url: /author/이가은/
+    url: /author/leegaeun/
     weight: 200
   - parent: About
     name: Contact
