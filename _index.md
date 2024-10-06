@@ -11,49 +11,41 @@ sections:
       title: 
       text: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다. 프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
 
-  - block: slider
+ - block: slider
     content:
       slides:
-      - title: AI
-        content: 'Just opened last month!'
+      - title: <span style="font-size:90%">About Me</span>
+        content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
         align: center
         background:
           image:
             filename: web_develop.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
-          color: '#333'
-      - title: Medical AI
-        content: Take a look at what we're working on...
+          color: '#000'
+
+      - title: <span style="font-size:90%">Interests</span>
+        content: <span style="font-size:90%">관심 분야가 많은 </span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: data_science.jpg
             filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Development
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: center
-        background:
-          image:
-            filename: web_develop.jpg
-            filters:
-              brightness: 0.7
+              brightness: 0.4
           position: center
-          color: '#555'
-      - title: Mathematics
-        content: 'Just opened last month!'
+          color: '#000'
+
+      - title: <span style="font-size:90%">Travel</span>
+        content: <span style="font-size:90%">여행을 좋아하는</span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: fukuoka.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
-          color: '#333'
+          color: '#000'
         link:
           icon: graduation-cap
           icon_pack: fas
