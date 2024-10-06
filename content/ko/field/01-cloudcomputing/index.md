@@ -28,3 +28,5 @@ __클라우드 컴퓨팅의 이점__
 - 보안
 
 출처 : https://cloud.google.com/learn/what-is-cloud-computing
+
+<!-- *출처: [Unsplash](https://www.ingenious.co.uk/wp-content/uploads/2023/08/What-is-Cloud-Computing-and-How-Can-it-Benefit-Our-Company-1024x512.jpeg)* -->

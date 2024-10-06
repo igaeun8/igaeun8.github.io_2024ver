@@ -23,3 +23,5 @@ __데이터 베이스의 이점__
 - 계속적 변화에 대한 적응
 
 출처 : https://www.oracle.com/database/what-is-database/
+
+<!-- *출처: [Unsplash](https://plus.unsplash.com/premium_photo-1661881801573-6506e682cbd6?q=80&w=829&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)* -->
