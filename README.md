@@ -1,5 +1,7 @@
 # [Hugo Theme을 사용한 개인 포트폴리오 웹사이트 만들기](https://igaeun8.github.io/)
 
+[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
+
 ## 설명
 - Hugo templates을 활용해서 만든 전북대학교 컴퓨터인공학부 이가은의 포트폴리오 사이트입니다.
 - 홈페이지에서 이름, 사진, 소속, 전공, 프로젝트 등을 확인하실수 있습니다.
