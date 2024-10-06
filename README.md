@@ -1,55 +1,36 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [웹페이지 만들기 with Hugo Template](https://2blackcow.github.io/)
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+## 설명
+- Hugo templates을 활용해서 만든 전북대학교 컴퓨터인공학부 이가은의 포트폴리오 사이트입니다.
+- 홈페이지에서 이름, 사진, 소속, 전공, 프로젝트 등을 확인하실수 있습니다.
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## 기능
+- Hugo Demo를 사용하여 개인 홈페이지 제작
+- 누구나 접근 가능하도록 배포
+- Hugo Demo Template과 무관한 HTML/CSS/Javascript를 사용하지 않고 개인 포트 폴리오 사이트 만듦
+- GitHub Actions를 활용해 자동 빌드 및 배포 되도록 구성
+- 다크/라이트 모드 지원
+- 다국어 모드 지원
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+  
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+### 한국어 버전 실행화면
+![image](https://github.com/user-attachments/assets/0bacd597-f0e0-4f65-9b67-db843be16e9f)
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+### 영어 버전 실행화면
+![image](https://github.com/user-attachments/assets/a4533d64-471c-4f99-9e5a-375ccfa21faa)
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
-## We ask you, humbly, to support this open source movement
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+📍실행 링크📍
+- (https://2blackcow.github.io/)
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-사진 출처
-
-- [ai.jpg](https://unsplash.com/photos/uVnRa6mOLOM)
-- [cloud_computing.jpg](https://unsplash.com/photos/kwzWjTnDPLk)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- [data_base.jpg](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+📍참고 자료📍
+- https://docs.hugoblox.com/tutorial
+- https://jbnu.macs.or.kr/
+- https://github.com/JBNU-MACS/JBNU-MACS.github.io
+  
+📍자세한 내용 및 평가사항📍
+- 📜[instruction.pdf](https://github.com/user-attachments/files/17265952/instruction.pdf)
