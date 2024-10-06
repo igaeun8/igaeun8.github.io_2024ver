@@ -54,7 +54,7 @@ sections:
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
