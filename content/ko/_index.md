@@ -6,10 +6,11 @@ date: 2024-10-05
 type: landing
 
 sections:
+
   - block: features
     content:
-      - title: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다.</span>
-      - text: <br><span style="font-size:100%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
+      title: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다.</span>
+      text: <br><span style="font-size:100%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
   - block: slider
     content:
       slides:
@@ -23,6 +24,7 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  #투명도 
         link:
           icon: face-smile
           icon_pack: far
