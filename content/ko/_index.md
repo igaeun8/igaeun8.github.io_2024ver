@@ -41,6 +41,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
 
       - title: <span style="font-size:90%">Interests</span>
         content: <span style="font-size:90%">관심 분야가 많은 </span>
@@ -52,6 +54,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
+
 
       - title: <span style="font-size:90%">Travel</span>
         content: <span style="font-size:90%">여행을 좋아하는</span>
@@ -73,6 +78,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
+
  
 
 

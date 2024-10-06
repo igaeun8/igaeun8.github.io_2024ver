@@ -25,6 +25,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
+
 
         link:
           icon: face-smile
@@ -42,6 +45,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
+
 
       - title: <span style="font-size:90%">Interests</span>
         content: <span style="font-size:90%">Interested in various fields</span>
@@ -53,6 +59,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
+
 
       - title: <span style="font-size:90%">Travel</span>
         content: <span style="font-size:90%">Loves to travel</span>
@@ -74,6 +83,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  # Apply transparency here
+          css_class: "image-overlay"  # Add the CSS class for text overlay
+
 
    
     design:
