@@ -35,7 +35,8 @@ tags: ['Python', 'Game', 'Capital Quiz', 'Team Project']
 
 # Display this page in the Featured widget?
 featured: true
-url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\project\01-PythonGame\Capital_Quiz_Report.pdf'
+
 ---
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/q1.pdf" >}}Download{{< /staticref >}} This is the certificate file.
 
 I created a capital quiz game using Python.

@@ -36,6 +36,8 @@ tags: ['Java', 'Cookie Run', 'Chat Room', 'Socket Communication', 'Team Project'
 
 # Display this page in the Featured widget?
 featured: true
-url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 ---
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/q2.pdf" >}}Download{{< /staticref >}} This is the certificate file.
+
 The Cookie Run game has been reconstructed, and a chat room has been created within it.

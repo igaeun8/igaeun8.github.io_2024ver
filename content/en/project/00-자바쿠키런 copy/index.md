@@ -33,6 +33,9 @@ tags: ['GitHub', 'Hugo Template', 'Personal Project']
 
 # Display this page in the Featured widget?
 featured: true
-#url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
+
 ---
+
+
+
 I am creating a personal portfolio site using GitHub and Hugo templates.
