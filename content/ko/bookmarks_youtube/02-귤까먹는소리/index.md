@@ -2,6 +2,7 @@
 title: 귤 까먹는 소리
 date: 2024-10-02
 ---
+[귤 까먹는 소리 유튜브](https://www.youtube.com/@cook_gyuri10)
 
 좋아하는 유튜버인 "귤 까먹는 소리" 입니다. 
 
