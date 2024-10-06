@@ -3,7 +3,7 @@ title: Baekjoon Online Judge
 date: 2024-10-03
 ---
 
-[백준 홈페애지](https://www.acmicpc.net/)
+[백준 홈페이지](https://www.acmicpc.net/)
 
 <!--more-->
 
