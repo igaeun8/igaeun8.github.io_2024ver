@@ -25,9 +25,13 @@ sections:
           text: <span style="font-size:60%">Click Me</span>
           text-color: '#000'
           url: contact
+ 
 
-      - title: <span style="font-size:70%">안녕하세요.</span>
-        content: <span style="font-size:70%">웹 개발자가 되고 싶은 이가은입니다.<span style="font-size:70%">
+  - block: slider
+    content:
+      slides:
+      - title: <span style="font-size:90%">About Me</span>
+        content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
         align: center
         background:
           image:
@@ -36,7 +40,28 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-          
+
+      - title: <span style="font-size:90%">Interests</span>
+        content: <span style="font-size:90%">관심 분야가 많은 </span>
+        align: center
+        background:
+          image:
+            filename: data_science.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Travel</span>
+        content: <span style="font-size:90%">여행을 좋아하는</span>
+        align: center
+        background:
+          image:
+            filename: fukuoka.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
       - title: <span style="font-size:90%">Front-end</span>
         content: <span style="font-size:90%">프론트 엔드 개발 지망 학부생</span>
         align: center
@@ -47,7 +72,6 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

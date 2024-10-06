@@ -1,5 +1,4 @@
 ---
-#로고를 누르면 나타나는 메인 페이지
 # Leave the homepage title empty to use the site title
 title:
 date: 2024-09-30
@@ -46,11 +45,16 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Click
-          url: /author/이가은/
+      - title: <span style="font-size:90%">Front-end</span>
+        content: <span style="font-size:90%">프론트 엔드 개발 지망 학부생</span>
+        align: center
+        background:
+          image:
+            filename: coding.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
