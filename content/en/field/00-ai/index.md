@@ -1,31 +1,31 @@
 ---
-title: 인공지능
+title: Artificial Intelligence
 date: 2024-09-29
 ---
 
-인공지능은 일반적으로 인간 지능이 필요하거나 인간이 분석할 수 있는 범위를 벗어난 대규모 데이터를 포함하는 방식으로 추론, 학습 및 행동할 수 있는 컴퓨터와 머신을 빌드하는 과학 분야입니다. 
+Artificial Intelligence (AI) is the scientific field focused on building computers and machines that can infer, learn, and act in ways that require human intelligence or exceed the analytical capabilities of humans, typically involving large-scale data.
 
-AI는 컴퓨터 공학, 데이터 분석 및 통계, 하드웨어 및 소프트웨어 엔지니어링, 언어학, 신경 과학은 물론 철학과 심리학 등 다양한 학문을 포괄하는 광범위한 분야입니다. 
+AI encompasses a wide range of disciplines, including computer engineering, data analysis and statistics, hardware and software engineering, linguistics, neuroscience, as well as philosophy and psychology.
 
-비즈니스의 운영 수준에서 AI는 주로 머신러닝과 딥 러닝을 기반으로 하는 기술로, 데이터 분석, 예측 및 예상, 객체 분류, 자연어 처리, 추천, 지능형 데이터 검색 등에 사용됩니다.
+At the operational level of business, AI primarily refers to technologies based on machine learning and deep learning, used for data analysis, predictions and forecasts, object classification, natural language processing, recommendations, intelligent data retrieval, and more.
 
 <!--more-->
 
-AI 기술마다 구체적인 내용이 다르지만 핵심 원칙은 데이터를 중심으로 합니다. AI 시스템은 방대한 양의 데이터를 학습하고 개선되어 인간이 놓칠 수 있는 패턴과 관계를 식별합니다.
+While the specifics of each AI technology may vary, the core principle revolves around data. AI systems learn from and improve through vast amounts of data, identifying patterns and relationships that humans might overlook.
 
-이 학습 프로세스에는 AI의 분석과 의사 결정을 안내하는 규칙이나 안내인 알고리즘이 포함되는 경우가 많습니다. 널리 사용되는 AI 하위 집합인 머신러닝에서 알고리즘은 라벨이 지정되거나 지정되지 않은 데이터를 학습하여 예측을 수행하거나 정보를 분류합니다. 
+This learning process often involves rules or guiding algorithms that steer AI's analysis and decision-making. In the widely used subset of AI known as machine learning, algorithms learn from labeled or unlabeled data to make predictions or classify information.
 
-추가 전문 분야인 딥 러닝은 인간의 뇌 구조와 기능을 모방한 여러 레이어로 구성된 인공 신경망을 활용하여 정보를 처리합니다. AI 시스템은 지속적인 학습과 적응을 통해 이미지 인식부터 언어 번역 등에 이르기까지 특정 태스크를 점점 능숙하게 수행하고 있습니다.
+An additional specialization, deep learning, utilizes artificial neural networks composed of multiple layers that mimic the structure and function of the human brain to process information. AI systems are becoming increasingly adept at performing specific tasks, from image recognition to language translation, through continuous learning and adaptation.
 
-__AI의 이점__
+__Benefits of AI__
 
-- 음성 인식
-- 영상 인식
-- 번역
-- 예측 모델링
-- 데이터 애너릴틱스
-- 사이버 보안
+- Speech Recognition
+- Image Recognition
+- Translation
+- Predictive Modeling
+- Data Analytics
+- Cybersecurity
 
-출처 : https://cloud.google.com/learn/what-is-artificial-intelligence?hl=ko
+Source: https://cloud.google.com/learn/what-is-artificial-intelligence?hl=en
 
-<!-- *출처: [Unsplash](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)* -->
+<!-- *Source: [Unsplash](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)* -->

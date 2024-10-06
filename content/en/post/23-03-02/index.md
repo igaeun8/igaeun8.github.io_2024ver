@@ -1,6 +1,6 @@
 ---
-title: (23년 1학기) 전북대학교 컴퓨터인공지능학부 입학
+title: (2023 1st Semester) Admission to the Department of Computer and Artificial Intelligence, Jeonbuk National University
 date: 2023-03-02
 ---
 
-이가은, 전북대학교 컴퓨터 인공지능학부생 임명
+Lee Ga-eun, appointed as a student in the Department of Computer and Artificial Intelligence, Jeonbuk National University.

@@ -1,14 +1,13 @@
 ---
-title: 할말넘많
+title: So Much to Say
 date: 2024-10-02
 ---
-[할말넘많 유튜브](https://www.youtube.com/@heavytalker)
+[So Much to Say YouTube Channel](https://www.youtube.com/@heavytalker)
 
-좋아하는 유튜버인 "할말넘많" 입니다. 
+This is my favorite YouTuber, "So Much to Say."
 
 <!--more-->
 
-- 하고 싶은 말이 너무 많아서
+- There is so much I want to say.
 
-영화 전공자로 같은 학과 동료인 강민지와 서솔 두 명의 멤버로 구성되어 있는 채널입니다. 다양한 컨텐츠를 올립니다. 
-
+This channel is composed of two members, Kang Min-ji and Seo Sol, who are both film majors and classmates. We upload a variety of content.

@@ -1,31 +1,27 @@
 ---
-title: 사물 인터넷
+title: Internet of Things
 date: 2024-09-29
 ---
 
-사물 인터넷(Internet of Things, 약어로 IoT)은 각종 사물에 센서와 통신 기능을 내장하여 인터넷에 연결하는 기술. 즉, 무선 통신을 통해 각종 사물을 연결하는 기술을 의미한다. 여기서 사물이란 가전제품, 모바일 장비, 웨어러블 디바이스 등 범위과 광범위하다.
-
+The Internet of Things (IoT) refers to the technology that connects various objects to the internet by embedding sensors and communication functions into them. In other words, it means connecting various objects through wireless communication. The term "objects" encompasses a wide range of items, including home appliances, mobile devices, and wearable devices.
 
 <!--more-->
 
-일반적인 IoT 시스템은 실시간 데이터 수집 및 교환을 통해 작동합니다. IoT 시스템에는 다음과 같은 세 가지 구성 요소가 있습니다.
+A typical IoT system operates through real-time data collection and exchange. There are three main components of an IoT system:
 
-첫번째, 스마트 디바이스가 있습니다.
-컴퓨터 기능이 부여된 텔레비전, 보안 카메라 또는 운동 장비와 같은 디바이스입니다. 환경, 사용자 입력 또는 사용 패턴에서 데이터를 수집하고 인터넷을 통해 IoT 애플리케이션과 데이터를 주고받습니다.
+First, there are smart devices. These are devices endowed with computing functions, such as televisions, security cameras, or fitness equipment. They collect data from the environment, user inputs, or usage patterns and exchange data with IoT applications over the internet.
 
-두번째, IoT 애플리케이션이 있습니다.
-IoT 애플리케이션은 다양한 IoT 디바이스에서 수신한 데이터를 통합하는 서비스 및 소프트웨어의 모음입니다. 기계 학습 또는 인공 지능(AI) 기술을 사용하여 이 데이터를 분석하고 정보에 입각한 결정을 내립니다. 이러한 결정은 IoT 디바이스로 다시 전달되고 IoT 디바이스는 입력에 지능적으로 응답합니다. 
+Second, there are IoT applications. IoT applications are a collection of services and software that integrate data received from various IoT devices. They use machine learning or artificial intelligence (AI) technologies to analyze this data and make informed decisions. These decisions are then communicated back to the IoT devices, which respond intelligently to the inputs.
 
-세번째, 그래픽 사용자 인터페이스가 있습니다.
-그래픽 사용자 인터페이스를 통해 IoT 디바이스나 디바이스 플릿을 관리할 수 있습니다. 일반적인 예로 스마트 디바이스를 등록하고 제어하는 데 사용할 수 있는 모바일 애플리케이션 또는 웹 사이트가 있습니다. 
+Third, there is a graphical user interface. The graphical user interface allows for the management of IoT devices or fleets of devices. A common example would be a mobile application or website that can be used to register and control smart devices.
 
-__사물 인터넷의 이점__
+__Benefits of the Internet of Things__
 
-- 혁신 가속화
-- 데이터를 인사이트와 조치로 전환
-- 보안 개선
-- 차별화된 솔루션 확장
+- Accelerates innovation
+- Transforms data into insights and actions
+- Improves security
+- Scales differentiated solutions
 
-출처 : https://aws.amazon.com/ko/what-is/iot/
+Source: https://aws.amazon.com/ko/what-is/iot/
 
-<!-- *출처: [Unsplash](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtmlEaMl_NReOLWxRuUmo6Z3czEsfyFVYKdQ&s)* -->
+<!-- *Source: [Unsplash](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtmlEaMl_NReOLWxRuUmo6Z3czEsfyFVYKdQ&s)* -->

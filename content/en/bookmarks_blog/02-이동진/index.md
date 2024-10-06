@@ -1,14 +1,13 @@
 ---
-title: 이동진의 영화풍경
+title: Lee Dong-jin's Movie Landscape
 date: 2024-10-02
 ---
-[이동진의 영화풍경 블로그](https://blog.naver.com/lifeisntcool)
+[Lee Dong-jin's Movie Landscape Blog](https://blog.naver.com/lifeisntcool)
 
-좋아하는 블로거인 "이동진의 영화풍경" 입니다. 
+I am "Lee Dong-jin's Movie Landscape," a blogger that I really like.
 
 <!--more-->
 
-- 언제나 영화처럼
+- Always like a movie
 
-대한민국의 영화 평론가인 이동진의 블로그입니다.
-
+This is the blog of Lee Dong-jin, a film critic from South Korea.

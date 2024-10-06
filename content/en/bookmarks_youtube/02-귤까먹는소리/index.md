@@ -1,15 +1,13 @@
 ---
-title: 귤 까먹는 소리
+title: Sounds of Peeling Tangerines
 date: 2024-10-02
 ---
-[귤 까먹는 소리 유튜브](https://www.youtube.com/@cook_gyuri10)
+[Sounds of Peeling Tangerines YouTube Channel](https://www.youtube.com/@cook_gyuri10)
 
-좋아하는 유튜버인 "귤 까먹는 소리" 입니다. 
+This is my favorite YouTuber, "Sounds of Peeling Tangerines."
 
 <!--more-->
 
-- 중2 혼밥 렛츠고~
+- Let’s go for solo meals in middle school!
 
-중학생의 요리 동영상 채널입니다. 
-
- 
+This is a cooking video channel for middle school students.

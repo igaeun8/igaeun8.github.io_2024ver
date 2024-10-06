@@ -1,15 +1,13 @@
 ---
-title: ebs 교양
+title: EBS Culture
 date: 2024-10-02
 ---
-[ebs 교양 유튜브](https://www.youtube.com/@EBSCulture)
+[EBS Culture YouTube Channel](https://www.youtube.com/@EBSCulture)
 
-좋아하는 유튜버인 "ebs 교양" 입니다. 
+This is my favorite YouTuber, "EBS Culture."
 
 <!--more-->
 
-- EBS는 다양한 교양 문화 프로그램들과 전문성을 갖춘 교육정보 프로그램들을 통해 지식 뿐만 아니라 인문학적 소양과 교양을 두루 갖춘 가치있는 정보들을 전달하겠습니다. 
+- EBS will deliver valuable information that encompasses not only knowledge but also humanistic qualities and cultural literacy through various cultural programs and professionally developed educational information programs.
 
-ebs의 교양 동영상 채널입니다. 
-
- 
+This is EBS's cultural video channel.

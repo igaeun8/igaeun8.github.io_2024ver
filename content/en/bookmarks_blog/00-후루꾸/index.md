@@ -1,14 +1,13 @@
 ---
-title: 후루꾸
+title: Furuku
 date: 2024-10-02
 ---
-[후루꾸 블로그](https://blog.naver.com/furuku_)
+[Furuku Blog](https://blog.naver.com/furuku_)
 
-좋아하는 블로거인 "후루꾸" 입니다. 
+I am "Furuku," a blogger that I really like.
 
 <!--more-->
 
-- 사측이세요?
+- Are you from the company?
 
-작성한 많은 네이버 포스트가 인터넷에서 밈이 된 화제의 블로거입니다. 
-
+I am a popular blogger whose many Naver posts have become memes on the internet.

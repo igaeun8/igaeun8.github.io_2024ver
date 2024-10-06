@@ -1,14 +1,13 @@
 ---
-title: 소스 연구 개발하는 남자
+title: The Man Who Develops Sauces
 date: 2024-10-02
 ---
-[소연남 블로그](https://blog.naver.com/soyonnam)
+[SoyeonNam Blog](https://blog.naver.com/soyonnam)
 
-좋아하는 블로거인 "소연남" 입니다. 
+I am "SoyeonNam," a blogger that I really like.
 
 <!--more-->
 
-- 여러분들이 휴게소에서 구입 해서 드시는 소떡소떡 소스 개발자가 바로 저 입니다. 
+- I am the developer of the sauce for "Sotteok Sotteok," which you purchase and enjoy at rest areas.
 
-소스 레시피에서 그치지 않고 다양한 음식 레시피를 올리는 블로거 입니다.
-
+I am a blogger who shares not only sauce recipes but also a variety of food recipes.
