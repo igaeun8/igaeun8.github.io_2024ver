@@ -17,7 +17,6 @@ sections:
   - block: slider
     content:
       slides:
-
       - title: <span style="font-size:70%">Information</span>
         content: <span style="font-size:70%">이가은에 대해 더 자세히 알고싶다면?</span>
         align: center
@@ -45,10 +44,24 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+          
+      - title: <span style="font-size:90%">Front-end</span>
+        content: <span style="font-size:90%">프론트 엔드 개발 지망 학부생</span>
         align: center
+        background:
+          image:
+            filename: coding.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+  - block: slider
+    content:
+      slides:
+      - title: <span style="font-size:90%">About Me</span>
+        content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶어요<span style="font-size:90%">
+        align: left
         background:
           image:
             filename: web_develop.jpg
@@ -57,27 +70,28 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: <span style="font-size:90%">Interests</span>
+        content: <span style="font-size:90%">관심 분야도 많고.. </span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: data_science.jpg
+            filters:
+              brightness: 0.4
+          position: right
+          color: '#000'
+
+      - title: <span style="font-size:90%">MONEY</span>
+        content: <span style="font-size:30%">사실 돈 많은 백수가 되고 싶어요<span style="font-size:30%">
+        align: center
+        background:
+          image:
+            filename: icon.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
-        align: center
-        background:
-          image:
-            filename: web_develop.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
