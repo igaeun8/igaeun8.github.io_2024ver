@@ -1,3 +1,5 @@
+---
+# Page that appears when clicking on About
 # Leave the homepage title empty to use the site title
 title:
 date: 2024-03-25
@@ -8,8 +10,7 @@ sections:
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">Hello. I am Lee Gaeun, aspiring to become a web developer. I started with front-end and hope you follow my journey towards full-stack development.</span></br>
-
+      text: <br><span style="font-size:125%">Hello, I'm Gaeun Lee, aspiring to become a web developer. Watch my journey from frontend to full stack.</span></br>
 
   - block: slider
     content:
@@ -26,7 +27,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Interests</span>
-        content: <span style="font-size:90%">I have many areas of interest</span>
+        content: <span style="font-size:90%">I have many areas of interest </span>
         align: center
         background:
           image:
@@ -37,7 +38,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Travel</span>
-        content: <span style="font-size:90%">I love to travel</span>
+        content: <span style="font-size:90%">I love traveling</span>
         align: center
         background:
           image:
@@ -48,7 +49,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Front-end</span>
-        content: <span style="font-size:90%">An undergraduate aspiring to become a front-end developer</span>
+        content: <span style="font-size:90%">Aspiring undergraduate front-end developer</span>
         align: center
         background:
           image:
@@ -58,9 +59,8 @@ sections:
           position: center
           color: '#000'
 
-
-      - title: <span style="font-size:90%">Lee Gaeun</span>
-        content: <span style="font-size:90%">Learn more about Lee Gaeun</span>
+      - title: <span style="font-size:90%">Gaeun Lee</span>
+        content: <span style="font-size:90%">Learn more about Gaeun Lee</span>
         align: center
         background:
           image:
@@ -84,3 +84,5 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
+
+---
