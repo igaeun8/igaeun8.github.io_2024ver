@@ -1,25 +1,25 @@
 ---
-title: 2024 제주도
+title: '2024 Jeju Island'
 date: 2024-06-22
 ---
 
-제주도 한 달 살기를 해보았습니다. 
+I spent a month living in Jeju Island.
 
 <!--more-->
 
-- 우도
-- 애월
-- 금오름
-- 김녕
-- 삼양
-- 월정리
-- 행원리
-- 함덕
-- 이도이동
-- 삼도이동
-- 삼도일동
-- 제주대학교
-- 아라일동
+- Udo
+- Aewol
+- Geumoreum
+- Gimnyeong
+- Samyang
+- Woljeongri
+- Haengwonri
+- Hamdeok
+- Idoidong
+- Samdoidong
+- Samdoil-dong
+- Jeju National University
+- Ara Ildong
 
-많은 걸 깨달았던 여행이었습니다. 
-제주도는 짧고 굵게 갔다 오는 것을 추천해 드립니다. 
+It was a journey where I realized many things. 
+I recommend visiting Jeju Island for a short but fulfilling experience.

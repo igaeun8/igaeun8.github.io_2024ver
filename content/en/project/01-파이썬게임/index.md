@@ -1,5 +1,5 @@
 ---
-title: '파이썬 수도 퀴즈 게임'
+title: 'Python Capital Quiz Game'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,20 +23,19 @@ publishDate: '2023-06-23'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 컴퓨터과학과코딩
-publication_short: 컴퓨터과학과코딩
+publication: Computer Science and Coding
+publication_short: Computer Science and Coding
 
-abstract: 파이썬으로 수도 퀴즈 게임을 만들었습니다.
+abstract: I created a capital quiz game using Python.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['파이썬', '게임', '수도퀴즈', '팀프로젝트']
+tags: ['Python', 'Game', 'Capital Quiz', 'Team Project']
 
 # Display this page in the Featured widget?
 featured: true
-url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\project\01-파이썬게임\수도_퀴즈_레포트.pdf'
+url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\project\01-PythonGame\Capital_Quiz_Report.pdf'
 ---
 
-파이썬으로 수도 퀴즈 게임을 만들었습니다.
-
+I created a capital quiz game using Python.

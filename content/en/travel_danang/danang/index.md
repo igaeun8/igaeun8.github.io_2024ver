@@ -1,16 +1,16 @@
 ---
-title: 2019 베트남 다낭
+title: '2019 Vietnam Da Nang'
 date: 2019-01-22
 ---
 
-코로나 전 마지막 해외 여행이었던 베트남 다낭입니다. 
+This was my last overseas trip before COVID-19, to Da Nang, Vietnam.
 
 <!--more-->
 
-- 영흥사
-- 바나힐
-- 핑크 성당
-- 한시장
-- 호이안 
+- Yeongheungsa Temple
+- Ba Na Hills
+- Pink Cathedral
+- Han Market
+- Hoi An
 
-가족 다같이 가게 되어 패키지 여행이랑 아쉬웠지만 쌀국수가 너무 맛있었습니다. 
+It was a package tour since I went with my family, which was a bit disappointing, but the pho was so delicious.

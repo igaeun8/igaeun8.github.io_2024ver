@@ -1,5 +1,5 @@
 ---
-title: '자바 쿠키런 + 채팅방'
+title: 'Java Cookie Run + Chat Room'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,18 +24,18 @@ publishDate: '2024-06-21'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 객체지향프로그래밍(자바)
-publication_short: 객체지향프로그래밍(자바)
+publication: Object-Oriented Programming (Java)
+publication_short: Object-Oriented Programming (Java)
 
-abstract: 쿠키런 게임을 재구성하였고 그 중 채팅방을 만들었습니다. 
+abstract: The Cookie Run game has been reconstructed, and a chat room has been created within it. 
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
+tags: ['Java', 'Cookie Run', 'Chat Room', 'Socket Communication', 'Team Project']
 
 # Display this page in the Featured widget?
 featured: true
 url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
 ---
-쿠키런 게임을 재구성하였고 그 중 채팅방을 만들었습니다. 
+The Cookie Run game has been reconstructed, and a chat room has been created within it.

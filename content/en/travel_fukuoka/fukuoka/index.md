@@ -1,19 +1,17 @@
 ---
-title: 2018 일본 후쿠오카
+title: '2018 Japan Fukuoka'
 date: 2018-06-22
 ---
 
-첫 해외 여행이었던 일본 후쿠오카 입니다. 
+This was my first overseas trip to Fukuoka, Japan.
 
 <!--more-->
 
-- 후쿠오카 타워
-- 모모치 해변
-- 유후인
-- 벳푸
-- 캐널 시티
-- 다자이후
+- Fukuoka Tower
+- Momochi Beach
+- Yufuin
+- Beppu
+- Canal City
+- Dazaifu
 
-
-야경이 아름다웠습니다.
-온천도 좋았습니다. 또 가고 싶습니다.  
+The night view was beautiful. The hot springs were great. I want to go again.
