@@ -180,7 +180,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
+        {{% cta cta_link="/author/이가은/" cta_text="Click me →" %}}
     design:
       columns: '1'
 ---
