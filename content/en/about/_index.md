@@ -69,12 +69,7 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-        link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Click me</span>
-          text-color: '#000'
-          url: contact
+   
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
