@@ -11,6 +11,7 @@ sections:
     content:
       title: <br><span style="font-size:125%">Hello, I'm Gaeun Lee, aspiring to become a web developer.</span>
       text: <br><span style="font-size:100%">Watch my journey from frontend to full stack development.</span>
+
   - block: slider
     content:
       slides:
@@ -73,9 +74,6 @@ sections:
           position: center
           color: '#000'
 
-  
-
-  - block: slider
    
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
