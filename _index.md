@@ -49,8 +49,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Click
+          url: /author/이가은/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
