@@ -1,25 +1,16 @@
 ---
-#로고를 누르면 나타나는 메인 페이지
+# Main page that appears when clicking the logo
 # Leave the homepage title empty to use the site title
 title:
 date: 2024-10-05
 type: landing
 
 sections:
-
-  - block: features
-    content:
-      title: <span style="font-size:70%">안녕하세요. 전북대학교 컴퓨터 인공지능학부 이가은입니다.</span>
-      text: <br><span style="font-size:125%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
-
-
   - block: slider
     content:
       slides:
-
       - title: <span style="font-size:70%">Information</span>
-        content: <span style="font-size:70%">이가은에 대해 더 자세히 알고싶다면?</span>
+        content: <span style="font-size:70%">Want to know more about I Gaeun?</span>
         align: center
         background:
           image:
@@ -34,9 +25,13 @@ sections:
           text: <span style="font-size:60%">Click Me</span>
           text-color: '#000'
           url: contact
+  
 
-      - title: <span style="font-size:70%">안녕하세요.</span>
-        content: <span style="font-size:70%">웹 개발자가 되고 싶은 이가은입니다.<span style="font-size:70%">
+  - block: slider
+    content:
+      slides:
+      - title: <span style="font-size:90%">About Me</span>
+        content: <span style="font-size:90%">Wants to get closer to computers</span>
         align: center
         background:
           image:
@@ -46,34 +41,33 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+      - title: <span style="font-size:90%">Interests</span>
+        content: <span style="font-size:90%">Interested in various fields</span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: data_science.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: <span style="font-size:90%">Travel</span>
+        content: <span style="font-size:90%">Loves to travel</span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: fukuoka.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
-
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+      - title: <span style="font-size:90%">Front-end</span>
+        content: <span style="font-size:90%">Aspiring front-end development student</span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
@@ -93,33 +87,33 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">Informaion</span>
-      text: 이가은의 기본 정보<br><br><br><br>
+      title: <span style="font-size:75%">Information</span>
+      text: Basic information about I Gaeun<br><br><br><br>
       items:
-        - name: 이름
+        - name: Name
           icon: user
           icon_pack: fas
-          description: <span style="font-size:90%">이가은</span><br><br>
-        - name: 생년월일
+          description: <span style="font-size:90%">I Gaeun</span><br><br>
+        - name: Date of Birth
           icon: calendar-days
           icon_pack: fas
           description:  <span style="font-size:90%">2003.01.23</span><br><br>
-        - name: 위치
+        - name: Location
           icon: location-dot
           icon_pack: fas
-          description:  <span style="font-size:90%">전북대학교 공과대학 7호관</span><br><br>
-        - name: 연락처
+          description:  <span style="font-size:90%">Engineering Building 7, Chonbuk National University</span><br><br>
+        - name: Contact
           icon: phone
           icon_pack: fas
           description:  <span style="font-size:90%">+82-5906-5988</span><br><br>
-        - name: 이메일
+        - name: Email
           icon: envelope
           icon_pack: fas
           description:  <span style="font-size:90%">igaeun8@gmail.com</span><br><br>
-        - name: 학력
+        - name: Education
           icon: pen
           icon_pack: fas
-          description:  <span style="font-size:90%">전북대학교 컴퓨터 인공지능 학부</span><br><br>
+          description:  <span style="font-size:90%">Department of Computer Artificial Intelligence, Chonbuk National University</span><br><br>
 
 
   - block: collection
@@ -159,6 +153,7 @@ sections:
     advanced:
       css_style: "text-align: center;"
 
+
   - block: collection
     content:
       title: Travel
@@ -174,13 +169,12 @@ sections:
       view: community/custom_card
       columns: '2'
 
-
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
+        {{% cta cta_link="/author/I Gaeun/" cta_text="Click me →" %}}
     design:
       columns: '1'
 ---
