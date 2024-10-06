@@ -184,12 +184,5 @@ sections:
       view: community/custom_card
       columns: '2'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="/author/I Gaeun/" cta_text="Click me →" %}}
-    design:
-      columns: '1'
+
 ---
