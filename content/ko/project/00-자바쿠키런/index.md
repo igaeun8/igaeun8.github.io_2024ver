@@ -36,6 +36,6 @@ tags: ['자바', '쿠키런', '채팅방', '소켓 통신', '팀프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
-url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
+url_pdf: 'igaeun8.github.io\igaeun8.github.io\content\ko\project\00-자바쿠키런\202312746_이가은_최종_보고서.pdf'
 ---
 쿠키런 게임을 재구성하였고 그 중 채팅방을 만들었습니다. 
