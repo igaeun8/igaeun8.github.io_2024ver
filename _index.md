@@ -13,8 +13,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: <span style="font-size:90%">Who am I</span>
-        content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
+      - title: Who am I
+        content: 컴퓨터와 더 친해지고 싶은
         align: center
         background:
           image:
@@ -25,8 +25,8 @@ sections:
           color: '#000'
 
 
-      - title: <span style="font-size:90%">Interests</span>
-        content: <span style="font-size:90%">관심 분야가 많은 </span>
+      - title: Interests
+        content: 관심 분야가 많은 
         align: center
         background:
           image:
@@ -36,8 +36,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:90%">Travel</span>
-        content: <span style="font-size:90%">여행을 좋아하는</span>
+      - title: Travel
+        content: 여행을 좋아하는
         align: center
         background:
           image:
@@ -46,8 +46,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-      - title: <span style="font-size:90%">Front-end</span>
-        content: <span style="font-size:90%">프론트 엔드 개발 지망 학부생</span>
+      - title: Front-end
+        content: 프론트 엔드 개발 지망 학부생
         align: center
         background:
           image:
