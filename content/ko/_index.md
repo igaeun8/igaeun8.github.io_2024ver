@@ -24,7 +24,6 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-          opacity: 0.6  #투명도 
         link:
           icon: face-smile
           icon_pack: far

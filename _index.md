@@ -7,13 +7,13 @@ type: landing
 sections:
   - block: features
     content:
-      - title: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다.</span>
-      - text: <br><span style="font-size:100%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
+      title: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다.</span>
+      text: <br><span style="font-size:100%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
 
   - block: slider
     content:
       slides:
-      - title: <span style="font-size:90%">About Me</span>
+      - title: <span style="font-size:90%">Who am I</span>
         content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
         align: center
         background:
@@ -23,6 +23,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          opacity: 0.6  #투명도 
+          css_class: "image-overlay"  # 텍스트 오버레이를 위한 CSS 클래스 추가
 
       - title: <span style="font-size:90%">Interests</span>
         content: <span style="font-size:90%">관심 분야가 많은 </span>
