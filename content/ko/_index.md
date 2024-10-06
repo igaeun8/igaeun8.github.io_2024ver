@@ -25,6 +25,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+          color: '#000'
+          css_class: "image-overlay"  # Add the CSS class for text overlay
         link:
           icon: face-smile
           icon_pack: far
@@ -36,7 +38,7 @@ sections:
         align: center
         background:
           image:
-            filename: assets/media/human_computer_interaction.jpg
+            filename: human_computer_interaction.jpg
             filters:
               brightness: 0.4
           position: center
