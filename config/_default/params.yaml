@@ -23,7 +23,7 @@ marketing:
     twitter: ''
     open_graph:
       title: '전북대 이가은'
-      image: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\assets\media\logo.png'
+      image: 'logo.png'
   analytics:
     google: 'a7iVzef2Zp3fd2Fg0BNgp2R7iR-jRh_bZPFrt20xfIE'
     google_analytics: 'a7iVzef2Zp3fd2Fg0BNgp2R7iR-jRh_bZPFrt20xfIE'
@@ -122,8 +122,4 @@ extensions:
 publications:
   date_format: January 2006 #고쳐야하나?
   citation_style: apa
-
-params:
-  featured_image: 'featured_image.png'  # 사이트 전체의 대표 이미지 경로
-
 
