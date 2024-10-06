@@ -125,7 +125,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Notifications & News
+      title: Project
       subtitle:
       text:
       count: 3
@@ -133,9 +133,7 @@ sections:
       order: desc
       filters:
         folders:
-          - notification
-          - post
-          - event
+          - project
     design:
       view: community/custom_card
       columns: '2'
@@ -163,24 +161,19 @@ sections:
 
   - block: collection
     content:
-      title: Interests
+      title: Travel
       subtitle:
       text:
       count: 3
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: field
+        folders:
+          - travel_jejudo
+          - travel_fukuoka
+          - travel_danang
     design:
-      view: showcase
+      view: community/custom_card
       columns: '2'
-    advanced:
-      css_style: "text-align: center;"
+
 
   - block: markdown
     content:

@@ -25,3 +25,5 @@ __관련 연구 분야__
 - 미디어 연구
 
 출처 : https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%84%B0_%EC%83%81%ED%98%B8_%EC%9E%91%EC%9A%A9
+
+<!-- *출처: [Unsplash](https://plus.unsplash.com/premium_photo-1718198498787-1894d06be7c4?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)* -->

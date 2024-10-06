@@ -1,5 +1,3 @@
----
-#about을 누르면 나타나는 페이지
 # Leave the homepage title empty to use the site title
 title:
 date: 2024-03-25
@@ -10,15 +8,14 @@ sections:
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">안녕하세요. 웹 개발자가 되고 싶은 이가은 입니다. 프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span></br>
+      text: <br><span style="font-size:125%">Hello. I am Lee Gaeun, aspiring to become a web developer. I started with front-end and hope you follow my journey towards full-stack development.</span></br>
 
 
   - block: slider
     content:
       slides:
-
       - title: <span style="font-size:90%">About Me</span>
-        content: <span style="font-size:90%">컴퓨터와 친해지고 싶은<span style="font-size:90%">
+        content: <span style="font-size:90%">I want to get closer to computers<span style="font-size:90%">
         align: center
         background:
           image:
@@ -29,7 +26,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Interests</span>
-        content: <span style="font-size:90%">관심 분야가 많은 </span>
+        content: <span style="font-size:90%">I have many areas of interest</span>
         align: center
         background:
           image:
@@ -40,34 +37,34 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Travel</span>
-        content: <span style="font-size:90%">여행을 좋아하는</span>
+        content: <span style="font-size:90%">I love to travel</span>
         align: center
         background:
           image:
-            filename: iot.jpg
+            filename: fukuoka.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
       - title: <span style="font-size:90%">Front-end</span>
-        content: <span style="font-size:90%">프론트 엔드 개발 지망 학부생</span>
+        content: <span style="font-size:90%">An undergraduate aspiring to become a front-end developer</span>
         align: center
         background:
           image:
-            filename: cloud_computing.jpg
+            filename: coding.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
 
-      - title: <span style="font-size:90%">이가은</span>
-        content: <span style="font-size:90%">이가은에 대해 더 알아보기</span>
+      - title: <span style="font-size:90%">Lee Gaeun</span>
+        content: <span style="font-size:90%">Learn more about Lee Gaeun</span>
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: avatar.jpg
             filters:
               brightness: 0.4
           position: center
@@ -87,16 +84,3 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
-
-  # - block: hero
-  #   content:
-  #     title: |
-  #       <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab</span>
-  #     image:
-  #       filename: welcome.jpg
-  #     text: |
-  #       <br>
-        
-  #       <span style="font-size:75%">전북대학교 의료 AI 및 계산 수학 연구실 (MACS Lab) 홈페이지에 오신 것을 환영합니다. MACS에서는 의료, 항공, 국방 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
-  
----

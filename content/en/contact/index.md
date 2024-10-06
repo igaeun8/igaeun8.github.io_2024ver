@@ -23,23 +23,10 @@ sections:
         latitude: '35.84614386613747'
         longitude: '127.13450518747047'
       directions: 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: true
     design:
       columns: '3'
 ---
