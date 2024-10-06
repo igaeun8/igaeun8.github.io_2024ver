@@ -180,12 +180,5 @@ sections:
       columns: '2'
 
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="/author/이가은/" cta_text="Click me →" %}}
-    design:
-      columns: '1'
+ 
 ---
