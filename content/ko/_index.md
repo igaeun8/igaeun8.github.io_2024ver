@@ -6,14 +6,6 @@ date: 2024-10-05
 type: landing
 
 sections:
-
-  - block: features
-    content:
-      title: <span style="font-size:70%">안녕하세요. 전북대학교 컴퓨터 인공지능학부 이가은입니다.</span>
-      text: <br><span style="font-size:125%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
-
-
   - block: slider
     content:
       slides:
@@ -51,42 +43,6 @@ sections:
         background:
           image:
             filename: coding.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-  - block: slider
-    content:
-      slides:
-      - title: <span style="font-size:90%">About Me</span>
-        content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶어요<span style="font-size:90%">
-        align: left
-        background:
-          image:
-            filename: web_develop.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:90%">Interests</span>
-        content: <span style="font-size:90%">관심 분야도 많고.. </span>
-        align: center
-        background:
-          image:
-            filename: data_science.jpg
-            filters:
-              brightness: 0.4
-          position: right
-          color: '#000'
-
-      - title: <span style="font-size:90%">MONEY</span>
-        content: <span style="font-size:30%">사실 돈 많은 백수가 되고 싶어요<span style="font-size:30%">
-        align: center
-        background:
-          image:
-            filename: icon.jpg
             filters:
               brightness: 0.4
           position: center
