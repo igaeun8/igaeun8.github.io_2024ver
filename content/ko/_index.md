@@ -30,12 +30,7 @@ sections:
           text: <span style="font-size:60%">Click Me</span>
           text-color: '#000'
           url: contact
- 
-
-  - block: slider
-    content:
-      slides:
-      - title: <span style="font-size:90%">About Me</span>
+          - title: <span style="font-size:90%">About Me</span>
         content: <span style="font-size:90%">컴퓨터와 더 친해지고 싶은<span style="font-size:90%">
         align: center
         background:
@@ -77,6 +72,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+ 
+
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
