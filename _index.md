@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: features
     content:
-      title: 
-      text: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다. 프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
+      title: <br><span style="font-size:125%">안녕하세요.웹 개발자가 되고 싶은 이가은입니다.</span>
+      text: <br><span style="font-size:100%">프론트에서 시작해 풀스택까지의 여정을 지켜봐주세요.</span>
 
   - block: slider
     content:
