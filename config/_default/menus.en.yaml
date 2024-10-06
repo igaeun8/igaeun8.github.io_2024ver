@@ -13,10 +13,7 @@ main:
     url: about
     weight: 100 
 
-  - parent: About
-    name: Intro
-    url: authors
-    weight: 200
+
   - parent: About
     name: Contact
     url: contact
