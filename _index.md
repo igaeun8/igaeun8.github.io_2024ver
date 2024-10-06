@@ -23,8 +23,7 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-          opacity: 0.6  #투명도 
-          css_class: "image-overlay"  # 텍스트 오버레이를 위한 CSS 클래스 추가
+
 
       - title: <span style="font-size:90%">Interests</span>
         content: <span style="font-size:90%">관심 분야가 많은 </span>
