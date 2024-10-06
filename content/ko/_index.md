@@ -36,7 +36,7 @@ sections:
         align: center
         background:
           image:
-            filename: web_develop.jpg
+            filename: assets/media/human_computer_interaction.jpg
             filters:
               brightness: 0.4
           position: center
