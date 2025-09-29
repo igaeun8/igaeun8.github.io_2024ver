@@ -33,6 +33,7 @@ tags: ['깃허브', '휴고 템플릿', '개인 프로젝트']
 
 # Display this page in the Featured widget?
 featured: true
-#url_pdf: 'C:\Users\USER\igaeun8.github.io\igaeun8.github.io\content\ko\publication\0008-Self-mutating Network For Domain Adaptive Segmentation In Aerial Images copy\0008-Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images.pdf'
+url_pdf: 'igaeun8.github.io/content/ko/project/03-챗봇시스템/AI 챗봇 시스템 중간 발표 최종.pdf'
+
 ---
 생성형 AI(GPT 등) 기반 문서 질의응답(RAG) 시스템을 활용해 사용자 질문에 대해 관련 문단과 해당 이미지까지 함께 응답하는 하이브리드 AI 챗봇 시스템을 만들었습니다. 
