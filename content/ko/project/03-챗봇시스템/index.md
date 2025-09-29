@@ -36,6 +36,6 @@ featured: true
 url_pdf: 'igaeun8.github.io/content/ko/project/03-챗봇시스템/AI 챗봇 시스템 중간 발표 최종.pdf'
 
 ---
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/q2.pdf" >}}Download{{< /staticref >}} pdf 파일입니다.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/q4.pdf" >}}Download{{< /staticref >}} pdf 파일입니다.
 
 생성형 AI(GPT 등) 기반 문서 질의응답(RAG) 시스템을 활용해 사용자 질문에 대해 관련 문단과 해당 이미지까지 함께 응답하는 하이브리드 AI 챗봇 시스템을 만들었습니다. 
