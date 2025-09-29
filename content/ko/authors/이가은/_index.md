@@ -59,7 +59,7 @@ social:
     link: https://github.com/igaeun8
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/__kkany__/
+    link: https://www.instagram.com/korlrol/
   - icon: discord
     icon_pack: fab
     link: https://discord.com/channels/igaeun4652
@@ -86,8 +86,8 @@ email: 'igaeun8@gmail.com'
 
 ---
 
-안녕하세요. 저는 컴퓨터 인공지능 학부에 재학 중 인 이가은 입니다. 저는 무언갈 표현하고 만들어 내는 것을 좋아해서 입시 미술을 했었습니다. 
+안녕하세요. 저는 컴퓨터 인공지능 학부에 재학 중 인 이가은입니다. 저는 무언갈 표현하고 만들어 내는 것을 좋아해서 입시 미술을 했었습니다. 
 개인 사정으로 입시 미술을 그만두게 되었지만 비슷한 매력을 가진 코딩에 흥미가 생겼고, 
 디자인 요소를 사용할 수 있는 프론트엔드에 관심을 가지게 되었습니다.
 여러 경험을 통해 다양한 기술과 능력을 향상시켜 편리한 UX를 제공할 수 있는 프론트엔드 개발자가 되고 싶습니다. 
- 아직 2학년 학부생이지만 훌륭한 개발자가 되기 위해 지속적으로 노력하겠습니다.  
+ 벌써 3학년 학부생이지만 훌륭한 개발자가 되기 위해 지속적으로 노력하겠습니다.  
