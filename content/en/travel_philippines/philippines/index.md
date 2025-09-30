@@ -10,4 +10,4 @@ I went to Cebu, Philippines for english study.
 - List the places you've been to
 
 I was happy to eat a lot of mangoes.
-I don't know how to improve my English.
+I don't know my English skill were improved.
